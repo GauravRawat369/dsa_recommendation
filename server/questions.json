@@ -1,0 +1,4922 @@
+[
+    {
+      "id": 0,
+      "topic": "Array",
+      "problem": "Reverse the array",
+      "link": "https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/"
+    },
+    {
+      "id": 1,
+      "topic": "Array",
+      "problem": "Find the maximum and minimum element in an array",
+      "link": "https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/"
+    },
+    {
+      "id": 2,
+      "topic": "Array",
+      "problem": "Find the \"Kth\" max and min element of an array ",
+      "link": "https://practice.geeksforgeeks.org/problems/kth-smallest-element/0"
+    },
+    {
+      "id": 3,
+      "topic": "Array",
+      "problem": "Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo",
+      "link": "https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0"
+    },
+    {
+      "id": 4,
+      "topic": "Array",
+      "problem": "Move all the negative elements to one side of the array ",
+      "link": "https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/"
+    },
+    {
+      "id": 5,
+      "topic": "Array",
+      "problem": "Find the Union and Intersection of the two sorted arrays.",
+      "link": "https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0"
+    },
+    {
+      "id": 6,
+      "topic": "Array",
+      "problem": "Write a program to cyclically rotate an array by one.",
+      "link": "https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/0"
+    },
+    {
+      "id": 7,
+      "topic": "Array",
+      "problem": "find Largest sum contiguous Subarray [V. IMP]",
+      "link": "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0"
+    },
+    {
+      "id": 8,
+      "topic": "Array",
+      "problem": "Minimise the maximum difference between heights [V.IMP]",
+      "link": "https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1"
+    },
+    {
+      "id": 9,
+      "topic": "Array",
+      "problem": "Minimum no. of Jumps to reach end of an array",
+      "link": "https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0"
+    },
+    {
+      "id": 10,
+      "topic": "Array",
+      "problem": "find duplicate in an array of N+1 Integers",
+      "link": "https://leetcode.com/problems/find-the-duplicate-number/"
+    },
+    {
+      "id": 11,
+      "topic": "Array",
+      "problem": "Merge 2 sorted arrays without using Extra space.",
+      "link": "https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1"
+    },
+    {
+      "id": 12,
+      "topic": "Array",
+      "problem": "Kadane's Algo [V.V.V.V.V IMP]",
+      "link": "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0"
+    },
+    {
+      "id": 13,
+      "topic": "Array",
+      "problem": "Merge Intervals",
+      "link": "https://leetcode.com/problems/merge-intervals/"
+    },
+    {
+      "id": 14,
+      "topic": "Array",
+      "problem": "Next Permutation",
+      "link": "https://leetcode.com/problems/next-permutation/"
+    },
+    {
+      "id": 15,
+      "topic": "Array",
+      "problem": "Count Inversion",
+      "link": "https://practice.geeksforgeeks.org/problems/inversion-of-array/0"
+    },
+    {
+      "id": 16,
+      "topic": "Array",
+      "problem": "Best time to buy and Sell stock",
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+    },
+    {
+      "id": 17,
+      "topic": "Array",
+      "problem": "find all pairs on integer array whose sum is equal to given number",
+      "link": "https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1"
+    },
+    {
+      "id": 18,
+      "topic": "Array",
+      "problem": "find common elements In 3 sorted arrays",
+      "link": "https://practice.geeksforgeeks.org/problems/common-elements1132/1"
+    },
+    {
+      "id": 19,
+      "topic": "Array",
+      "problem": "Rearrange the array in alternating positive and negative items with O(1) extra space",
+      "link": "https://www.geeksforgeeks.org/rearrange-array-alternating-positive-negative-items-o1-extra-space/"
+    },
+    {
+      "id": 20,
+      "topic": "Array",
+      "problem": "Find if there is any subarray with sum equal to 0",
+      "link": "https://practice.geeksforgeeks.org/problems/subarray-with-0-sum/0"
+    },
+    {
+      "id": 21,
+      "topic": "Array",
+      "problem": "Find factorial of a large number",
+      "link": "https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers/0"
+    },
+    {
+      "id": 22,
+      "topic": "Array",
+      "problem": "find maximum product subarray ",
+      "link": "https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1"
+    },
+    {
+      "id": 23,
+      "topic": "Array",
+      "problem": "Find longest coinsecutive subsequence",
+      "link": "https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0"
+    },
+    {
+      "id": 24,
+      "topic": "Array",
+      "problem": "Given an array of size n and a number k, fin all elements that appear more than \" n/k \" times.",
+      "link": "https://www.geeksforgeeks.org/given-an-array-of-of-size-n-finds-all-the-elements-that-appear-more-than-nk-times/"
+    },
+    {
+      "id": 25,
+      "topic": "Array",
+      "problem": "Maximum profit by buying and selling a share atmost twice",
+      "link": "https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-twice/"
+    },
+    {
+      "id": 26,
+      "topic": "Array",
+      "problem": "Find whether an array is a subset of another array",
+      "link": "https://practice.geeksforgeeks.org/problems/array-subset-of-another-array/0"
+    },
+    {
+      "id": 27,
+      "topic": "Array",
+      "problem": "Find the triplet that sum to a given value",
+      "link": "https://practice.geeksforgeeks.org/problems/triplet-sum-in-array/0"
+    },
+    {
+      "id": 28,
+      "topic": "Array",
+      "problem": "Trapping Rain water problem",
+      "link": "https://practice.geeksforgeeks.org/problems/trapping-rain-water/0"
+    },
+    {
+      "id": 29,
+      "topic": "Array",
+      "problem": "Chocolate Distribution problem",
+      "link": "https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0"
+    },
+    {
+      "id": 30,
+      "topic": "Array",
+      "problem": "Smallest Subarray with sum greater than a given value",
+      "link": "https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x/0"
+    },
+    {
+      "id": 31,
+      "topic": "Array",
+      "problem": "Three way partitioning of an array around a given value",
+      "link": "https://practice.geeksforgeeks.org/problems/three-way-partitioning/1"
+    },
+    {
+      "id": 32,
+      "topic": "Array",
+      "problem": "Minimum swaps required bring elements less equal K together",
+      "link": "https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together/0"
+    },
+    {
+      "id": 33,
+      "topic": "Array",
+      "problem": "Minimum no. of operations required to make an array palindrome",
+      "link": "https://practice.geeksforgeeks.org/problems/palindromic-array/0"
+    },
+    {
+      "id": 34,
+      "topic": "Array",
+      "problem": "Median of 2 sorted arrays of equal size",
+      "link": "https://practice.geeksforgeeks.org/problems/find-the-median0527/1"
+    },
+    {
+      "id": 35,
+      "topic": "Array",
+      "problem": "Median of 2 sorted arrays of different size",
+      "link": "https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/"
+    },
+    {
+      "id": 36,
+      "topic": "Matrix",
+      "problem": "Spiral traversal on a Matrix",
+      "link": "https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0"
+    },
+    {
+      "id": 37,
+      "topic": "Matrix",
+      "problem": "Search an element in a matriix",
+      "link": "https://leetcode.com/problems/search-a-2d-matrix/"
+    },
+    {
+      "id": 38,
+      "topic": "Matrix",
+      "problem": "Find median in a row wise sorted matrix",
+      "link": "https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1"
+    },
+    {
+      "id": 39,
+      "topic": "Matrix",
+      "problem": "Find row with maximum no. of 1's",
+      "link": "https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1"
+    },
+    {
+      "id": 40,
+      "topic": "Matrix",
+      "problem": "Print elements in sorted order using row-column wise sorted matrix",
+      "link": "https://practice.geeksforgeeks.org/problems/sorted-matrix/0"
+    },
+    {
+      "id": 41,
+      "topic": "Matrix",
+      "problem": "Maximum size rectangle",
+      "link": "https://practice.geeksforgeeks.org/problems/max-rectangle/1"
+    },
+    {
+      "id": 42,
+      "topic": "Matrix",
+      "problem": "Find a specific pair in matrix",
+      "link": "https://www.geeksforgeeks.org/find-a-specific-pair-in-matrix/"
+    },
+    {
+      "id": 43,
+      "topic": "Matrix",
+      "problem": "Rotate matrix by 90 degrees",
+      "link": "https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-direction-without-using-any-extra-space/"
+    },
+    {
+      "id": 44,
+      "topic": "Matrix",
+      "problem": "Kth smallest element in a row-cpumn wise sorted matrix",
+      "link": "https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1"
+    },
+    {
+      "id": 45,
+      "topic": "Matrix",
+      "problem": "Common elements in all rows of a given matrix",
+      "link": "https://www.geeksforgeeks.org/common-elements-in-all-rows-of-a-given-matrix/"
+    },
+    {
+      "id": 46,
+      "topic": "String",
+      "problem": "Reverse a String",
+      "link": "https://leetcode.com/problems/reverse-string/"
+    },
+    {
+      "id": 47,
+      "topic": "String",
+      "problem": "Check whether a String is Palindrome or not",
+      "link": "https://practice.geeksforgeeks.org/problems/palindrome-string0817/1"
+    },
+    {
+      "id": 48,
+      "topic": "String",
+      "problem": "Find Duplicate characters in a string",
+      "link": "https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/"
+    },
+    {
+      "id": 49,
+      "topic": "String",
+      "problem": "Write a Code to check whether one string is a rotation of another",
+      "link": "https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/"
+    },
+    {
+      "id": 50,
+      "topic": "String",
+      "problem": "Write a Program to check whether a string is a valid shuffle of two strings or not",
+      "link": "https://www.programiz.com/java-programming/examples/check-valid-shuffle-of-strings"
+    },
+    {
+      "id": 51,
+      "topic": "String",
+      "problem": "Count and Say problem",
+      "link": "https://leetcode.com/problems/count-and-say/"
+    },
+    {
+      "id": 52,
+      "topic": "String",
+      "problem": "Write a program to find the longest Palindrome in a string.[ Longest palindromic Substring]",
+      "link": "https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/0"
+    },
+    {
+      "id": 53,
+      "topic": "String",
+      "problem": "Find Longest Recurring Subsequence in String",
+      "link": "https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0"
+    },
+    {
+      "id": 54,
+      "topic": "String",
+      "problem": "Print all Subsequences of a string.",
+      "link": "https://www.geeksforgeeks.org/print-subsequences-string/"
+    },
+    {
+      "id": 55,
+      "topic": "String",
+      "problem": "Print all the permutations of the given string",
+      "link": "https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0"
+    },
+    {
+      "id": 56,
+      "topic": "String",
+      "problem": "Split the Binary string into two substring with equal 0’s and 1’s",
+      "link": "https://www.geeksforgeeks.org/split-the-binary-string-into-substrings-with-equal-number-of-0s-and-1s/"
+    },
+    {
+      "id": 57,
+      "topic": "String",
+      "problem": "Word Wrap Problem [VERY IMP].",
+      "link": "https://practice.geeksforgeeks.org/problems/word-wrap/0"
+    },
+    {
+      "id": 58,
+      "topic": "String",
+      "problem": "EDIT Distance [Very Imp]",
+      "link": "https://practice.geeksforgeeks.org/problems/edit-distance3702/1"
+    },
+    {
+      "id": 59,
+      "topic": "String",
+      "problem": "Find next greater number with same set of digits. [Very Very IMP]",
+      "link": "https://practice.geeksforgeeks.org/problems/next-permutation/0"
+    },
+    {
+      "id": 60,
+      "topic": "String",
+      "problem": "Balanced Parenthesis problem.[Imp]",
+      "link": "https://practice.geeksforgeeks.org/problems/parenthesis-checker/0"
+    },
+    {
+      "id": 61,
+      "topic": "String",
+      "problem": "Word break Problem[ Very Imp]",
+      "link": "https://practice.geeksforgeeks.org/problems/word-break/0"
+    },
+    {
+      "id": 62,
+      "topic": "String",
+      "problem": "Rabin Karp Algo",
+      "link": "https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/"
+    },
+    {
+      "id": 63,
+      "topic": "String",
+      "problem": "KMP Algo",
+      "link": "https://practice.geeksforgeeks.org/problems/longest-prefix-suffix2527/1"
+    },
+    {
+      "id": 64,
+      "topic": "String",
+      "problem": "Convert a Sentence into its equivalent mobile numeric keypad sequence.",
+      "link": "https://www.geeksforgeeks.org/convert-sentence-equivalent-mobile-numeric-keypad-sequence/"
+    },
+    {
+      "id": 65,
+      "topic": "String",
+      "problem": "Minimum number of bracket reversals needed to make an expression balanced.",
+      "link": "https://practice.geeksforgeeks.org/problems/count-the-reversals/0"
+    },
+    {
+      "id": 66,
+      "topic": "String",
+      "problem": "Count All Palindromic Subsequence in a given String.",
+      "link": "https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1"
+    },
+    {
+      "id": 67,
+      "topic": "String",
+      "problem": "Count of number of given string in 2D character array",
+      "link": "https://www.geeksforgeeks.org/find-count-number-given-string-present-2d-character-array/"
+    },
+    {
+      "id": 68,
+      "topic": "String",
+      "problem": "Search a Word in a 2D Grid of characters.",
+      "link": "https://practice.geeksforgeeks.org/problems/find-the-string-in-grid/0"
+    },
+    {
+      "id": 69,
+      "topic": "String",
+      "problem": "Boyer Moore Algorithm for Pattern Searching.",
+      "link": "https://www.geeksforgeeks.org/boyer-moore-algorithm-for-pattern-searching/"
+    },
+    {
+      "id": 70,
+      "topic": "String",
+      "problem": "Converting Roman Numerals to Decimal",
+      "link": "https://practice.geeksforgeeks.org/problems/roman-number-to-integer/0"
+    },
+    {
+      "id": 71,
+      "topic": "String",
+      "problem": "Longest Common Prefix",
+      "link": "https://leetcode.com/problems/longest-common-prefix/"
+    },
+    {
+      "id": 72,
+      "topic": "String",
+      "problem": "Number of flips to make binary string alternate",
+      "link": "https://practice.geeksforgeeks.org/problems/min-number-of-flips/0"
+    },
+    {
+      "id": 73,
+      "topic": "String",
+      "problem": "Find the first repeated word in string.",
+      "link": "https://practice.geeksforgeeks.org/problems/second-most-repeated-string-in-a-sequence/0"
+    },
+    {
+      "id": 74,
+      "topic": "String",
+      "problem": "Minimum number of swaps for bracket balancing.",
+      "link": "https://practice.geeksforgeeks.org/problems/minimum-swaps-for-bracket-balancing/0"
+    },
+    {
+      "id": 75,
+      "topic": "String",
+      "problem": "Find the longest common subsequence between two strings.",
+      "link": "https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0"
+    },
+    {
+      "id": 76,
+      "topic": "String",
+      "problem": "Program to generate all possible valid IP addresses from given  string.",
+      "link": "https://www.geeksforgeeks.org/program-generate-possible-valid-ip-addresses-given-string/"
+    },
+    {
+      "id": 77,
+      "topic": "String",
+      "problem": "Write a program tofind the smallest window that contains all characters of string itself.",
+      "link": "https://practice.geeksforgeeks.org/problems/smallest-distant-window/0"
+    },
+    {
+      "id": 78,
+      "topic": "String",
+      "problem": "Rearrange characters in a string such that no two adjacent are same",
+      "link": "https://practice.geeksforgeeks.org/problems/rearrange-characters/0"
+    },
+    {
+      "id": 79,
+      "topic": "String",
+      "problem": "Minimum characters to be added at front to make string palindrome",
+      "link": "https://www.geeksforgeeks.org/minimum-characters-added-front-make-string-palindrome/"
+    },
+    {
+      "id": 80,
+      "topic": "String",
+      "problem": "Given a sequence of words, print all anagrams together",
+      "link": "https://practice.geeksforgeeks.org/problems/k-anagrams-1/0"
+    },
+    {
+      "id": 81,
+      "topic": "String",
+      "problem": "Find the smallest window in a string containing all characters of another string",
+      "link": "https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0"
+    },
+    {
+      "id": 82,
+      "topic": "String",
+      "problem": "Recursively remove all adjacent duplicates",
+      "link": "https://practice.geeksforgeeks.org/problems/consecutive-elements/0"
+    },
+    {
+      "id": 83,
+      "topic": "String",
+      "problem": "String matching where one string contains wildcard characters",
+      "link": "https://practice.geeksforgeeks.org/problems/wildcard-string-matching/0"
+    },
+    {
+      "id": 84,
+      "topic": "String",
+      "problem": "Function to find Number of customers who could not get a computer",
+      "link": "https://www.geeksforgeeks.org/function-to-find-number-of-customers-who-could-not-get-a-computer/"
+    },
+    {
+      "id": 85,
+      "topic": "String",
+      "problem": "Transform One String to Another using Minimum Number of Given Operation",
+      "link": "https://www.geeksforgeeks.org/transform-one-string-to-another-using-minimum-number-of-given-operation/"
+    },
+    {
+      "id": 86,
+      "topic": "String",
+      "problem": "Check if two given strings are isomorphic to each other",
+      "link": "https://practice.geeksforgeeks.org/problems/isomorphic-strings/0"
+    },
+    {
+      "id": 87,
+      "topic": "String",
+      "problem": "Recursively print all sentences that can be formed from list of word lists",
+      "link": "https://www.geeksforgeeks.org/recursively-print-all-sentences-that-can-be-formed-from-list-of-word-lists/"
+    },
+    {
+      "id": 88,
+      "topic": "Searching & Sorting",
+      "problem": "Find first and last positions of an element in a sorted array",
+      "link": "https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0"
+    },
+    {
+      "id": 89,
+      "topic": "Searching & Sorting",
+      "problem": "Find a Fixed Point (Value equal to index) in a given array",
+      "link": "https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1"
+    },
+    {
+      "id": 90,
+      "topic": "Searching & Sorting",
+      "problem": "Search in a rotated sorted array",
+      "link": "https://leetcode.com/problems/search-in-rotated-sorted-array/"
+    },
+    {
+      "id": 91,
+      "topic": "Searching & Sorting",
+      "problem": "square root of an integer",
+      "link": "https://practice.geeksforgeeks.org/problems/count-squares3649/1"
+    },
+    {
+      "id": 92,
+      "topic": "Searching & Sorting",
+      "problem": "Maximum and minimum of an array using minimum number of comparisons",
+      "link": "https://practice.geeksforgeeks.org/problems/middle-of-three2926/1"
+    },
+    {
+      "id": 93,
+      "topic": "Searching & Sorting",
+      "problem": "Optimum location of point to minimize total distance",
+      "link": "https://www.geeksforgeeks.org/optimum-location-point-minimize-total-distance/#:~:text=We%20need%20to%20find%20a,set%20of%20points%20is%20minimum.&text=In%20above%20figure%20optimum%20location,is%20minimum%20obtainable%20total%20distance."
+    },
+    {
+      "id": 94,
+      "topic": "Searching & Sorting",
+      "problem": "Find the repeating and the missing",
+      "link": "https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1"
+    },
+    {
+      "id": 95,
+      "topic": "Searching & Sorting",
+      "problem": "find majority element",
+      "link": "https://practice.geeksforgeeks.org/problems/majority-element/0"
+    },
+    {
+      "id": 96,
+      "topic": "Searching & Sorting",
+      "problem": "Searching in an array where adjacent differ by at most k",
+      "link": "https://www.geeksforgeeks.org/searching-array-adjacent-differ-k/"
+    },
+    {
+      "id": 97,
+      "topic": "Searching & Sorting",
+      "problem": "find a pair with a given difference",
+      "link": "https://practice.geeksforgeeks.org/problems/find-pair-given-difference/0"
+    },
+    {
+      "id": 98,
+      "topic": "Searching & Sorting",
+      "problem": "find four elements that sum to a given value",
+      "link": "https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0"
+    },
+    {
+      "id": 99,
+      "topic": "Searching & Sorting",
+      "problem": "maximum sum such that no 2 elements are adjacent",
+      "link": "https://practice.geeksforgeeks.org/problems/stickler-theif/0"
+    },
+    {
+      "id": 100,
+      "topic": "Searching & Sorting",
+      "problem": "Count triplet with sum smaller than a given value",
+      "link": "https://practice.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1"
+    },
+    {
+      "id": 101,
+      "topic": "Searching & Sorting",
+      "problem": "merge 2 sorted arrays",
+      "link": "https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1"
+    },
+    {
+      "id": 102,
+      "topic": "Searching & Sorting",
+      "problem": "print all subarrays with 0 sum",
+      "link": "https://practice.geeksforgeeks.org/problems/zero-sum-subarrays/0"
+    },
+    {
+      "id": 103,
+      "topic": "Searching & Sorting",
+      "problem": "Product array Puzzle",
+      "link": "https://practice.geeksforgeeks.org/problems/product-array-puzzle/0"
+    },
+    {
+      "id": 104,
+      "topic": "Searching & Sorting",
+      "problem": "Sort array according to count of set bits",
+      "link": "https://practice.geeksforgeeks.org/problems/sort-by-set-bit-count/0"
+    },
+    {
+      "id": 105,
+      "topic": "Searching & Sorting",
+      "problem": "minimum no. of swaps required to sort the array",
+      "link": "https://practice.geeksforgeeks.org/problems/minimum-swaps/1"
+    },
+    {
+      "id": 106,
+      "topic": "Searching & Sorting",
+      "problem": "Bishu and Soldiers",
+      "link": "https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/bishu-and-soldiers/"
+    },
+    {
+      "id": 107,
+      "topic": "Searching & Sorting",
+      "problem": "Rasta and Kheshtak",
+      "link": "https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/rasta-and-kheshtak/"
+    },
+    {
+      "id": 108,
+      "topic": "Searching & Sorting",
+      "problem": "Kth smallest number again",
+      "link": "https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/kth-smallest-number-again-2/"
+    },
+    {
+      "id": 109,
+      "topic": "Searching & Sorting",
+      "problem": "Find pivot element in a sorted array",
+      "link": "http://theoryofprogramming.com/2017/12/16/find-pivot-element-sorted-rotated-array/"
+    },
+    {
+      "id": 110,
+      "topic": "Searching & Sorting",
+      "problem": "K-th Element of Two Sorted Arrays",
+      "link": "https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array/0"
+    },
+    {
+      "id": 111,
+      "topic": "Searching & Sorting",
+      "problem": "Aggressive cows",
+      "link": "https://www.spoj.com/problems/AGGRCOW/"
+    },
+    {
+      "id": 112,
+      "topic": "Searching & Sorting",
+      "problem": "Book Allocation Problem",
+      "link": "https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages/0"
+    },
+    {
+      "id": 113,
+      "topic": "Searching & Sorting",
+      "problem": "EKOSPOJ:",
+      "link": "https://www.spoj.com/problems/EKO/"
+    },
+    {
+      "id": 114,
+      "topic": "Searching & Sorting",
+      "problem": "Job Scheduling Algo",
+      "link": "https://www.geeksforgeeks.org/weighted-job-scheduling-log-n-time/"
+    },
+    {
+      "id": 115,
+      "topic": "Searching & Sorting",
+      "problem": "Missing Number in AP",
+      "link": "https://practice.geeksforgeeks.org/problems/arithmetic-number/0"
+    },
+    {
+      "id": 116,
+      "topic": "Searching & Sorting",
+      "problem": "Smallest number with atleastn trailing zeroes infactorial",
+      "link": "https://practice.geeksforgeeks.org/problems/smallest-factorial-number5929/1"
+    },
+    {
+      "id": 117,
+      "topic": "Searching & Sorting",
+      "problem": "Painters Partition Problem:",
+      "link": "https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages/0"
+    },
+    {
+      "id": 118,
+      "topic": "Searching & Sorting",
+      "problem": "ROTI-Prata SPOJ",
+      "link": "https://www.spoj.com/problems/PRATA/"
+    },
+    {
+      "id": 119,
+      "topic": "Searching & Sorting",
+      "problem": "DoubleHelix SPOJ",
+      "link": "https://www.spoj.com/problems/ANARC05B/"
+    },
+    {
+      "id": 120,
+      "topic": "Searching & Sorting",
+      "problem": "Subset Sums",
+      "link": "https://www.spoj.com/problems/SUBSUMS/"
+    },
+    {
+      "id": 121,
+      "topic": "Searching & Sorting",
+      "problem": "Findthe inversion count",
+      "link": "https://practice.geeksforgeeks.org/problems/inversion-of-array/0"
+    },
+    {
+      "id": 122,
+      "topic": "Searching & Sorting",
+      "problem": "Implement Merge-sort in-place",
+      "link": "https://www.geeksforgeeks.org/in-place-merge-sort/"
+    },
+    {
+      "id": 123,
+      "topic": "Searching & Sorting",
+      "problem": "Partitioning and Sorting Arrays with Many Repeated EnTriess",
+      "link": "https://www.baeldung.com/java-sorting-arrays-with-repeated-entries"
+    },
+    {
+      "id": 124,
+      "topic": "LinkedList",
+      "problem": "Write a Program to reverse the Linked List. (Both Iterative and recursive)",
+      "link": "https://www.geeksforgeeks.org/reverse-a-linked-list/"
+    },
+    {
+      "id": 125,
+      "topic": "LinkedList",
+      "problem": "Reverse a Linked List in group of Given Size. [Very Imp]",
+      "link": "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1"
+    },
+    {
+      "id": 126,
+      "topic": "LinkedList",
+      "problem": "Write a program to Detect loop in a linked list.",
+      "link": "https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1"
+    },
+    {
+      "id": 127,
+      "topic": "LinkedList",
+      "problem": "Write a program to Delete loop in a linked list.",
+      "link": "https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1"
+    },
+    {
+      "id": 128,
+      "topic": "LinkedList",
+      "problem": "Find the starting point of the loop. ",
+      "link": "https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/"
+    },
+    {
+      "id": 129,
+      "topic": "LinkedList",
+      "problem": "Remove Duplicates in a sorted Linked List.",
+      "link": "https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1"
+    },
+    {
+      "id": 130,
+      "topic": "LinkedList",
+      "problem": "Remove Duplicates in a Un-sorted Linked List.",
+      "link": "https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1"
+    },
+    {
+      "id": 131,
+      "topic": "LinkedList",
+      "problem": "Write a Program to Move the last element to Front in a Linked List.",
+      "link": "https://www.geeksforgeeks.org/move-last-element-to-front-of-a-given-linked-list/"
+    },
+    {
+      "id": 132,
+      "topic": "LinkedList",
+      "problem": "Add “1” to a number represented as a Linked List.",
+      "link": "https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1"
+    },
+    {
+      "id": 133,
+      "topic": "LinkedList",
+      "problem": "Add two numbers represented by linked lists.",
+      "link": "https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1"
+    },
+    {
+      "id": 134,
+      "topic": "LinkedList",
+      "problem": "Intersection of two Sorted Linked List.",
+      "link": "https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1"
+    },
+    {
+      "id": 135,
+      "topic": "LinkedList",
+      "problem": "Intersection Point of two Linked Lists.",
+      "link": "https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1"
+    },
+    {
+      "id": 136,
+      "topic": "LinkedList",
+      "problem": "Merge Sort For Linked lists.[Very Important]",
+      "link": "https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1"
+    },
+    {
+      "id": 137,
+      "topic": "LinkedList",
+      "problem": "Quicksort for Linked Lists.[Very Important]",
+      "link": "https://practice.geeksforgeeks.org/problems/quick-sort-on-linked-list/1"
+    },
+    {
+      "id": 138,
+      "topic": "LinkedList",
+      "problem": "Find the middle Element of a linked list.",
+      "link": "https://leetcode.com/problems/middle-of-the-linked-list/"
+    },
+    {
+      "id": 139,
+      "topic": "LinkedList",
+      "problem": "Check if a linked list is a circular linked list.",
+      "link": "https://practice.geeksforgeeks.org/problems/circular-linked-list/1"
+    },
+    {
+      "id": 140,
+      "topic": "LinkedList",
+      "problem": "Split a Circular linked list into two halves.",
+      "link": "https://practice.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1"
+    },
+    {
+      "id": 141,
+      "topic": "LinkedList",
+      "problem": "Write a Program to check whether the Singly Linked list is a palindrome or not.",
+      "link": "https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1"
+    },
+    {
+      "id": 142,
+      "topic": "LinkedList",
+      "problem": "Deletion from a Circular Linked List.",
+      "link": "https://www.geeksforgeeks.org/deletion-circular-linked-list/"
+    },
+    {
+      "id": 143,
+      "topic": "LinkedList",
+      "problem": "Reverse a Doubly Linked list.",
+      "link": "https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1"
+    },
+    {
+      "id": 144,
+      "topic": "LinkedList",
+      "problem": "Find pairs with a given sum in a DLL.",
+      "link": "https://www.geeksforgeeks.org/find-pairs-given-sum-doubly-linked-list/"
+    },
+    {
+      "id": 145,
+      "topic": "LinkedList",
+      "problem": "Count triplets in a sorted DLL whose sum is equal to given value “X”.",
+      "link": "https://www.geeksforgeeks.org/count-triplets-sorted-doubly-linked-list-whose-sum-equal-given-value-x/"
+    },
+    {
+      "id": 146,
+      "topic": "LinkedList",
+      "problem": "Sort a “k”sorted Doubly Linked list.[Very IMP]",
+      "link": "https://www.geeksforgeeks.org/sort-k-sorted-doubly-linked-list/"
+    },
+    {
+      "id": 147,
+      "topic": "LinkedList",
+      "problem": "Rotate DoublyLinked list by N nodes.",
+      "link": "https://www.geeksforgeeks.org/rotate-doubly-linked-list-n-nodes/"
+    },
+    {
+      "id": 148,
+      "topic": "LinkedList",
+      "problem": "Rotate a Doubly Linked list in group of Given Size.[Very IMP]",
+      "link": "https://www.geeksforgeeks.org/reverse-doubly-linked-list-groups-given-size/"
+    },
+    {
+      "id": 149,
+      "topic": "LinkedList",
+      "problem": "Flatten a Linked List",
+      "link": "https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1"
+    },
+    {
+      "id": 150,
+      "topic": "LinkedList",
+      "problem": "Sort a LL of 0's, 1's and 2's",
+      "link": "https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1"
+    },
+    {
+      "id": 151,
+      "topic": "LinkedList",
+      "problem": "Clone a linked list with next and random pointer",
+      "link": "https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1"
+    },
+    {
+      "id": 152,
+      "topic": "LinkedList",
+      "problem": "Merge K sorted Linked list",
+      "link": "https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1"
+    },
+    {
+      "id": 153,
+      "topic": "LinkedList",
+      "problem": "Multiply 2 no. represented by LL",
+      "link": "https://practice.geeksforgeeks.org/problems/multiply-two-linked-lists/1"
+    },
+    {
+      "id": 154,
+      "topic": "LinkedList",
+      "problem": "Delete nodes which have a greater value on right side",
+      "link": "https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1"
+    },
+    {
+      "id": 155,
+      "topic": "LinkedList",
+      "problem": "Segregate even and odd nodes in a Linked List",
+      "link": "https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-nodes-in-a-linked-list/0"
+    },
+    {
+      "id": 156,
+      "topic": "LinkedList",
+      "problem": "Program for n’th node from the end of a Linked List",
+      "link": "https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1"
+    },
+    {
+      "id": 157,
+      "topic": "LinkedList",
+      "problem": "Find the first non-repeating character from a stream of characters",
+      "link": "https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0"
+    },
+    {
+      "id": 158,
+      "topic": "Binary Trees",
+      "problem": "level order traversal",
+      "link": "https://practice.geeksforgeeks.org/problems/level-order-traversal/1"
+    },
+    {
+      "id": 159,
+      "topic": "Binary Trees",
+      "problem": "Reverse Level Order traversal",
+      "link": "https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1"
+    },
+    {
+      "id": 160,
+      "topic": "Binary Trees",
+      "problem": "Height of a tree",
+      "link": "https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1"
+    },
+    {
+      "id": 161,
+      "topic": "Binary Trees",
+      "problem": "Diameter of a tree",
+      "link": "https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1"
+    },
+    {
+      "id": 162,
+      "topic": "Binary Trees",
+      "problem": "Mirror of a tree",
+      "link": "https://www.geeksforgeeks.org/create-a-mirror-tree-from-the-given-binary-tree/"
+    },
+    {
+      "id": 163,
+      "topic": "Binary Trees",
+      "problem": "Inorder Traversal of a tree both using recursion and Iteration",
+      "link": "https://www.techiedelight.com/inorder-tree-traversal-iterative-recursive/"
+    },
+    {
+      "id": 164,
+      "topic": "Binary Trees",
+      "problem": "Preorder Traversal of a tree both using recursion and Iteration",
+      "link": "https://www.techiedelight.com/preorder-tree-traversal-iterative-recursive/"
+    },
+    {
+      "id": 165,
+      "topic": "Binary Trees",
+      "problem": "Postorder Traversal of a tree both using recursion and Iteration",
+      "link": "https://www.techiedelight.com/postorder-tree-traversal-iterative-recursive/"
+    },
+    {
+      "id": 166,
+      "topic": "Binary Trees",
+      "problem": "Left View of a tree",
+      "link": "https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1"
+    },
+    {
+      "id": 167,
+      "topic": "Binary Trees",
+      "problem": "Right View of Tree",
+      "link": "https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1"
+    },
+    {
+      "id": 168,
+      "topic": "Binary Trees",
+      "problem": "Top View of a tree",
+      "link": "https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1"
+    },
+    {
+      "id": 169,
+      "topic": "Binary Trees",
+      "problem": "Bottom View of a tree",
+      "link": "https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1"
+    },
+    {
+      "id": 170,
+      "topic": "Binary Trees",
+      "problem": "Zig-Zag traversal of a binary tree",
+      "link": "https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1"
+    },
+    {
+      "id": 171,
+      "topic": "Binary Trees",
+      "problem": "Check if a tree is balanced or not",
+      "link": "https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1"
+    },
+    {
+      "id": 172,
+      "topic": "Binary Trees",
+      "problem": "Diagnol Traversal of a Binary tree",
+      "link": "https://www.geeksforgeeks.org/diagonal-traversal-of-binary-tree/"
+    },
+    {
+      "id": 173,
+      "topic": "Binary Trees",
+      "problem": "Boundary traversal of a Binary tree",
+      "link": "https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1"
+    },
+    {
+      "id": 174,
+      "topic": "Binary Trees",
+      "problem": "Construct Binary Tree from String with Bracket Representation",
+      "link": "https://www.geeksforgeeks.org/construct-binary-tree-string-bracket-representation/"
+    },
+    {
+      "id": 175,
+      "topic": "Binary Trees",
+      "problem": "Convert Binary tree into Doubly Linked List",
+      "link": "https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1"
+    },
+    {
+      "id": 176,
+      "topic": "Binary Trees",
+      "problem": "Convert Binary tree into Sum tree",
+      "link": "https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1"
+    },
+    {
+      "id": 177,
+      "topic": "Binary Trees",
+      "problem": "Construct Binary tree from Inorder and preorder traversal",
+      "link": "https://practice.geeksforgeeks.org/problems/construct-tree-1/1"
+    },
+    {
+      "id": 178,
+      "topic": "Binary Trees",
+      "problem": "Find minimum swaps required to convert a Binary tree into BST",
+      "link": "https://www.geeksforgeeks.org/minimum-swap-required-convert-binary-tree-binary-search-tree/#:~:text=Given%20the%20array%20representation%20of,it%20into%20Binary%20Search%20Tree.&text=Swap%201%3A%20Swap%20node%208,node%209%20with%20node%2010."
+    },
+    {
+      "id": 179,
+      "topic": "Binary Trees",
+      "problem": "Check if Binary tree is Sum tree or not",
+      "link": "https://practice.geeksforgeeks.org/problems/sum-tree/1"
+    },
+    {
+      "id": 180,
+      "topic": "Binary Trees",
+      "problem": "Check if all leaf nodes are at same level or not",
+      "link": "https://practice.geeksforgeeks.org/problems/leaf-at-same-level/1"
+    },
+    {
+      "id": 181,
+      "topic": "Binary Trees",
+      "problem": "Check if a Binary Tree contains duplicate subtrees of size 2 or more [ IMP ]",
+      "link": "https://practice.geeksforgeeks.org/problems/duplicate-subtree-in-binary-tree/1"
+    },
+    {
+      "id": 182,
+      "topic": "Binary Trees",
+      "problem": "Check if 2 trees are mirror or not",
+      "link": "https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0"
+    },
+    {
+      "id": 183,
+      "topic": "Binary Trees",
+      "problem": "Sum of Nodes on the Longest path from root to leaf node ",
+      "link": "https://practice.geeksforgeeks.org/problems/sum-of-the-longest-bloodline-of-a-tree/1"
+    },
+    {
+      "id": 184,
+      "topic": "Binary Trees",
+      "problem": "Check if given graph is tree or not.  [ IMP ]",
+      "link": "https://www.geeksforgeeks.org/check-given-graph-tree/#:~:text=Since%20the%20graph%20is%20undirected,graph%20is%20connected%2C%20otherwise%20not."
+    },
+    {
+      "id": 185,
+      "topic": "Binary Trees",
+      "problem": "Find Largest subtree sum in a tree",
+      "link": "https://www.geeksforgeeks.org/find-largest-subtree-sum-tree/"
+    },
+    {
+      "id": 186,
+      "topic": "Binary Trees",
+      "problem": "Maximum Sum of nodes in Binary tree such that no two are adjacent ",
+      "link": "https://www.geeksforgeeks.org/maximum-sum-nodes-binary-tree-no-two-adjacent/"
+    },
+    {
+      "id": 187,
+      "topic": "Binary Trees",
+      "problem": "Print all \"K\" Sum paths in a Binary tree",
+      "link": "https://www.geeksforgeeks.org/print-k-sum-paths-binary-tree/"
+    },
+    {
+      "id": 188,
+      "topic": "Binary Trees",
+      "problem": "Find LCA in a Binary tree",
+      "link": "https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1"
+    },
+    {
+      "id": 189,
+      "topic": "Binary Trees",
+      "problem": "Find distance between 2 nodes in a Binary tree",
+      "link": "https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1"
+    },
+    {
+      "id": 190,
+      "topic": "Binary Trees",
+      "problem": "Kth Ancestor of node in a Binary tree",
+      "link": "https://www.geeksforgeeks.org/kth-ancestor-node-binary-tree-set-2/"
+    },
+    {
+      "id": 191,
+      "topic": "Binary Trees",
+      "problem": "Find all Duplicate subtrees in a Binary tree [ IMP ]",
+      "link": "https://practice.geeksforgeeks.org/problems/duplicate-subtrees/1"
+    },
+    {
+      "id": 192,
+      "topic": "Binary Trees",
+      "problem": "Tree Isomorphism Problem",
+      "link": "https://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1"
+    },
+    {
+      "id": 193,
+      "topic": "Binary Search Trees",
+      "problem": "Fina a value in a BST",
+      "link": "https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/"
+    },
+    {
+      "id": 194,
+      "topic": "Binary Search Trees",
+      "problem": "Deletion of a node in a BST",
+      "link": "https://leetcode.com/problems/delete-node-in-a-bst/"
+    },
+    {
+      "id": 195,
+      "topic": "Binary Search Trees",
+      "problem": "Find min and max value in a BST",
+      "link": "https://practice.geeksforgeeks.org/problems/minimum-element-in-bst/1"
+    },
+    {
+      "id": 196,
+      "topic": "Binary Search Trees",
+      "problem": "Find inorder successor and inorder predecessor in a BST",
+      "link": "https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1"
+    },
+    {
+      "id": 197,
+      "topic": "Binary Search Trees",
+      "problem": "Check if a tree is a BST or not ",
+      "link": "https://practice.geeksforgeeks.org/problems/check-for-bst/1"
+    },
+    {
+      "id": 198,
+      "topic": "Binary Search Trees",
+      "problem": "Populate Inorder successor of all nodes",
+      "link": "https://practice.geeksforgeeks.org/problems/populate-inorder-successor-for-all-nodes/1"
+    },
+    {
+      "id": 199,
+      "topic": "Binary Search Trees",
+      "problem": "Find LCA  of 2 nodes in a BST",
+      "link": "https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1"
+    },
+    {
+      "id": 200,
+      "topic": "Binary Search Trees",
+      "problem": "Construct BST from preorder traversal",
+      "link": "https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/"
+    },
+    {
+      "id": 201,
+      "topic": "Binary Search Trees",
+      "problem": "Convert Binary tree into BST",
+      "link": "https://practice.geeksforgeeks.org/problems/binary-tree-to-bst/1"
+    },
+    {
+      "id": 202,
+      "topic": "Binary Search Trees",
+      "problem": "Convert a normal BST into a Balanced BST",
+      "link": "https://www.geeksforgeeks.org/convert-normal-bst-balanced-bst/"
+    },
+    {
+      "id": 203,
+      "topic": "Binary Search Trees",
+      "problem": "Merge two BST [ V.V.V>IMP ]",
+      "link": "https://www.geeksforgeeks.org/merge-two-balanced-binary-search-trees/"
+    },
+    {
+      "id": 204,
+      "topic": "Binary Search Trees",
+      "problem": "Find Kth largest element in a BST",
+      "link": "https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1"
+    },
+    {
+      "id": 205,
+      "topic": "Binary Search Trees",
+      "problem": "Find Kth smallest element in a BST",
+      "link": "https://practice.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1"
+    },
+    {
+      "id": 206,
+      "topic": "Binary Search Trees",
+      "problem": "Count pairs from 2 BST whose sum is equal to given value \"X\"",
+      "link": "https://practice.geeksforgeeks.org/problems/brothers-from-different-root/1"
+    },
+    {
+      "id": 207,
+      "topic": "Binary Search Trees",
+      "problem": "Find the median of BST in O(n) time and O(1) space",
+      "link": "https://www.geeksforgeeks.org/find-median-bst-time-o1-space/"
+    },
+    {
+      "id": 208,
+      "topic": "Binary Search Trees",
+      "problem": "Count BST ndoes that lie in a given range",
+      "link": "https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1"
+    },
+    {
+      "id": 209,
+      "topic": "Binary Search Trees",
+      "problem": "Replace every element with the least greater element on its right",
+      "link": "https://www.geeksforgeeks.org/replace-every-element-with-the-least-greater-element-on-its-right/"
+    },
+    {
+      "id": 210,
+      "topic": "Binary Search Trees",
+      "problem": "Given \"n\" appointments, find the conflicting appointments",
+      "link": "https://www.geeksforgeeks.org/given-n-appointments-find-conflicting-appointments/"
+    },
+    {
+      "id": 211,
+      "topic": "Binary Search Trees",
+      "problem": "Check preorder is valid or not",
+      "link": "https://practice.geeksforgeeks.org/problems/preorder-to-postorder/0"
+    },
+    {
+      "id": 212,
+      "topic": "Binary Search Trees",
+      "problem": "Check whether BST contains Dead end",
+      "link": "https://practice.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1"
+    },
+    {
+      "id": 213,
+      "topic": "Binary Search Trees",
+      "problem": "Largest BST in a Binary Tree [ V.V.V.V.V IMP ]",
+      "link": "https://practice.geeksforgeeks.org/problems/largest-bst/1"
+    },
+    {
+      "id": 214,
+      "topic": "Binary Search Trees",
+      "problem": "Flatten BST to sorted list",
+      "link": "https://www.geeksforgeeks.org/flatten-bst-to-sorted-list-increasing-order/"
+    },
+    {
+      "id": 215,
+      "topic": "Greedy",
+      "problem": "Activity Selection Problem",
+      "link": "https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0"
+    },
+    {
+      "id": 216,
+      "topic": "Greedy",
+      "problem": "Job SequencingProblem",
+      "link": "https://practice.geeksforgeeks.org/problems/job-sequencing-problem/0"
+    },
+    {
+      "id": 217,
+      "topic": "Greedy",
+      "problem": "Huffman Coding",
+      "link": "https://practice.geeksforgeeks.org/problems/huffman-encoding/0"
+    },
+    {
+      "id": 218,
+      "topic": "Greedy",
+      "problem": "Water Connection Problem",
+      "link": "https://practice.geeksforgeeks.org/problems/water-connection-problem/0"
+    },
+    {
+      "id": 219,
+      "topic": "Greedy",
+      "problem": "Fractional Knapsack Problem",
+      "link": "https://practice.geeksforgeeks.org/problems/fractional-knapsack/0"
+    },
+    {
+      "id": 220,
+      "topic": "Greedy",
+      "problem": "Greedy Algorithm to find Minimum number of Coins",
+      "link": "https://practice.geeksforgeeks.org/problems/coin-piles/0"
+    },
+    {
+      "id": 221,
+      "topic": "Greedy",
+      "problem": "Maximum trains for which stoppage can be provided",
+      "link": "https://www.geeksforgeeks.org/maximum-trains-stoppage-can-provided/"
+    },
+    {
+      "id": 222,
+      "topic": "Greedy",
+      "problem": "Minimum Platforms Problem",
+      "link": "https://practice.geeksforgeeks.org/problems/minimum-platforms/0"
+    },
+    {
+      "id": 223,
+      "topic": "Greedy",
+      "problem": "Buy Maximum Stocks if i stocks can be bought on i-th day",
+      "link": "https://www.geeksforgeeks.org/buy-maximum-stocks-stocks-can-bought-th-day/"
+    },
+    {
+      "id": 224,
+      "topic": "Greedy",
+      "problem": "Find the minimum and maximum amount to buy all N candies",
+      "link": "https://practice.geeksforgeeks.org/problems/shop-in-candy-store/0"
+    },
+    {
+      "id": 225,
+      "topic": "Greedy",
+      "problem": "Minimize Cash Flow among a given set of friends who have borrowed money from each other",
+      "link": "https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/"
+    },
+    {
+      "id": 226,
+      "topic": "Greedy",
+      "problem": "Minimum Cost to cut a board into squares",
+      "link": "https://www.geeksforgeeks.org/minimum-cost-cut-board-squares/"
+    },
+    {
+      "id": 227,
+      "topic": "Greedy",
+      "problem": "Check if it is possible to survive on Island",
+      "link": "https://www.geeksforgeeks.org/survival/"
+    },
+    {
+      "id": 228,
+      "topic": "Greedy",
+      "problem": "Find maximum meetings in one room",
+      "link": "https://www.geeksforgeeks.org/find-maximum-meetings-in-one-room/"
+    },
+    {
+      "id": 229,
+      "topic": "Greedy",
+      "problem": "Maximum product subset of an array",
+      "link": "https://www.geeksforgeeks.org/maximum-product-subset-array/"
+    },
+    {
+      "id": 230,
+      "topic": "Greedy",
+      "problem": "Maximize array sum after K negations",
+      "link": "https://practice.geeksforgeeks.org/problems/maximize-sum-after-k-negations/0"
+    },
+    {
+      "id": 231,
+      "topic": "Greedy",
+      "problem": "Maximize the sum of arr[i]*i",
+      "link": "https://practice.geeksforgeeks.org/problems/maximize-arrii-of-an-array/0"
+    },
+    {
+      "id": 232,
+      "topic": "Greedy",
+      "problem": "Maximum sum of absolute difference of an array",
+      "link": "https://www.geeksforgeeks.org/maximum-sum-absolute-difference-array/"
+    },
+    {
+      "id": 233,
+      "topic": "Greedy",
+      "problem": "Maximize sum of consecutive differences in a circular array",
+      "link": "https://practice.geeksforgeeks.org/problems/swap-and-maximize/0"
+    },
+    {
+      "id": 234,
+      "topic": "Greedy",
+      "problem": "Minimum sum of absolute difference of pairs of two arrays",
+      "link": "https://www.geeksforgeeks.org/minimum-sum-absolute-difference-pairs-two-arrays/#:~:text=It%20consists%20of%20two%20steps,result%20to%20the%20sum%20S."
+    },
+    {
+      "id": 235,
+      "topic": "Greedy",
+      "problem": "Program for Shortest Job First (or SJF) CPU Scheduling",
+      "link": "https://www.geeksforgeeks.org/program-for-shortest-job-first-or-sjf-cpu-scheduling-set-1-non-preemptive/"
+    },
+    {
+      "id": 236,
+      "topic": "Greedy",
+      "problem": "Program for Least Recently Used (LRU) Page Replacement algorithm",
+      "link": "https://practice.geeksforgeeks.org/problems/page-faults-in-lru/0"
+    },
+    {
+      "id": 237,
+      "topic": "Greedy",
+      "problem": "Smallest subset with sum greater than all other elements",
+      "link": "https://www.geeksforgeeks.org/smallest-subset-sum-greater-elements/"
+    },
+    {
+      "id": 238,
+      "topic": "Greedy",
+      "problem": "Chocolate Distribution Problem",
+      "link": "https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0"
+    },
+    {
+      "id": 239,
+      "topic": "Greedy",
+      "problem": "DEFKIN -Defense of a Kingdom",
+      "link": "https://www.spoj.com/problems/DEFKIN/"
+    },
+    {
+      "id": 240,
+      "topic": "Greedy",
+      "problem": "DIEHARD -DIE HARD",
+      "link": "https://www.spoj.com/problems/DIEHARD/"
+    },
+    {
+      "id": 241,
+      "topic": "Greedy",
+      "problem": "GERGOVIA -Wine trading in Gergovia",
+      "link": "https://www.spoj.com/problems/GERGOVIA/"
+    },
+    {
+      "id": 242,
+      "topic": "Greedy",
+      "problem": "Picking Up Chicks",
+      "link": "https://www.spoj.com/problems/GCJ101BB/"
+    },
+    {
+      "id": 243,
+      "topic": "Greedy",
+      "problem": "CHOCOLA –Chocolate",
+      "link": "https://www.spoj.com/problems/CHOCOLA/"
+    },
+    {
+      "id": 244,
+      "topic": "Greedy",
+      "problem": "ARRANGE -Arranging Amplifiers",
+      "link": "https://www.spoj.com/problems/ARRANGE/"
+    },
+    {
+      "id": 245,
+      "topic": "Greedy",
+      "problem": "K Centers Problem",
+      "link": "https://www.geeksforgeeks.org/k-centers-problem-set-1-greedy-approximate-algorithm/"
+    },
+    {
+      "id": 246,
+      "topic": "Greedy",
+      "problem": "Minimum Cost of ropes",
+      "link": "https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0"
+    },
+    {
+      "id": 247,
+      "topic": "Greedy",
+      "problem": "Find smallest number with given number of digits and sum of digits",
+      "link": "https://practice.geeksforgeeks.org/problems/smallest-number5829/1"
+    },
+    {
+      "id": 248,
+      "topic": "Greedy",
+      "problem": "Rearrange characters in a string such that no two adjacent are same",
+      "link": "https://practice.geeksforgeeks.org/problems/rearrange-characters/0"
+    },
+    {
+      "id": 249,
+      "topic": "Greedy",
+      "problem": "Find maximum sum possible equal sum of three stacks",
+      "link": "https://www.geeksforgeeks.org/find-maximum-sum-possible-equal-sum-three-stacks/"
+    },
+    {
+      "id": 250,
+      "topic": "BackTracking",
+      "problem": "Rat in a maze Problem",
+      "link": "https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1"
+    },
+    {
+      "id": 251,
+      "topic": "BackTracking",
+      "problem": "Printing all solutions in N-Queen Problem",
+      "link": "https://www.geeksforgeeks.org/printing-solutions-n-queen-problem/"
+    },
+    {
+      "id": 252,
+      "topic": "BackTracking",
+      "problem": "Word Break Problem using Backtracking",
+      "link": "https://practice.geeksforgeeks.org/problems/word-break-part-2/0"
+    },
+    {
+      "id": 253,
+      "topic": "BackTracking",
+      "problem": "Remove Invalid Parentheses",
+      "link": "https://leetcode.com/problems/remove-invalid-parentheses/"
+    },
+    {
+      "id": 254,
+      "topic": "BackTracking",
+      "problem": "Sudoku Solver",
+      "link": "https://practice.geeksforgeeks.org/problems/solve-the-sudoku/0"
+    },
+    {
+      "id": 255,
+      "topic": "BackTracking",
+      "problem": "m Coloring Problem",
+      "link": "https://practice.geeksforgeeks.org/problems/m-coloring-problem/0"
+    },
+    {
+      "id": 256,
+      "topic": "BackTracking",
+      "problem": "Print all palindromic partitions of a string",
+      "link": "https://www.geeksforgeeks.org/given-a-string-print-all-possible-palindromic-partition/"
+    },
+    {
+      "id": 257,
+      "topic": "BackTracking",
+      "problem": "Subset Sum Problem",
+      "link": "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1"
+    },
+    {
+      "id": 258,
+      "topic": "BackTracking",
+      "problem": "The Knight’s tour problem",
+      "link": "https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/"
+    },
+    {
+      "id": 259,
+      "topic": "BackTracking",
+      "problem": "Tug of War",
+      "link": "https://www.geeksforgeeks.org/tug-of-war/"
+    },
+    {
+      "id": 260,
+      "topic": "BackTracking",
+      "problem": "Find shortest safe route in a path with landmines",
+      "link": "https://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-with-landmines/"
+    },
+    {
+      "id": 261,
+      "topic": "BackTracking",
+      "problem": "Combinational Sum",
+      "link": "https://practice.geeksforgeeks.org/problems/combination-sum/0"
+    },
+    {
+      "id": 262,
+      "topic": "BackTracking",
+      "problem": "Find Maximum number possible by doing at-most K swaps",
+      "link": "https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps/0"
+    },
+    {
+      "id": 263,
+      "topic": "BackTracking",
+      "problem": "Print all permutations of a string ",
+      "link": "https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0"
+    },
+    {
+      "id": 264,
+      "topic": "BackTracking",
+      "problem": "Find if there is a path of more than k length from a source",
+      "link": "https://www.geeksforgeeks.org/find-if-there-is-a-path-of-more-than-k-length-from-a-source/"
+    },
+    {
+      "id": 265,
+      "topic": "BackTracking",
+      "problem": "Longest Possible Route in a Matrix with Hurdles",
+      "link": "https://www.geeksforgeeks.org/longest-possible-route-in-a-matrix-with-hurdles/"
+    },
+    {
+      "id": 266,
+      "topic": "BackTracking",
+      "problem": "Print all possible paths from top left to bottom right of a mXn matrix",
+      "link": "https://www.geeksforgeeks.org/print-all-possible-paths-from-top-left-to-bottom-right-of-a-mxn-matrix/"
+    },
+    {
+      "id": 267,
+      "topic": "BackTracking",
+      "problem": "Partition of a set intoK subsets with equal sum",
+      "link": "https://practice.geeksforgeeks.org/problems/partition-array-to-k-subsets/1"
+    },
+    {
+      "id": 268,
+      "topic": "BackTracking",
+      "problem": "Find the K-th Permutation Sequence of first N natural numbers",
+      "link": "https://www.geeksforgeeks.org/find-the-k-th-permutation-sequence-of-first-n-natural-numbers/"
+    },
+    {
+      "id": 269,
+      "topic": "Stacks & Queues",
+      "problem": " Implement Stack from Scratch",
+      "link": "https://www.tutorialspoint.com/javaexamples/data_stack.htm"
+    },
+    {
+      "id": 270,
+      "topic": "Stacks & Queues",
+      "problem": " Implement Queue from Scratch",
+      "link": "https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/"
+    },
+    {
+      "id": 271,
+      "topic": "Stacks & Queues",
+      "problem": "Implement 2 stack in an array",
+      "link": "https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1"
+    },
+    {
+      "id": 272,
+      "topic": "Stacks & Queues",
+      "problem": "find the middle element of a stack",
+      "link": "https://www.geeksforgeeks.org/design-a-stack-with-find-middle-operation/"
+    },
+    {
+      "id": 273,
+      "topic": "Stacks & Queues",
+      "problem": "Implement \"N\" stacks in an Array",
+      "link": "https://www.geeksforgeeks.org/efficiently-implement-k-stacks-single-array/"
+    },
+    {
+      "id": 274,
+      "topic": "Stacks & Queues",
+      "problem": "Check the expression has valid or Balanced parenthesis or not.",
+      "link": "https://practice.geeksforgeeks.org/problems/parenthesis-checker/0"
+    },
+    {
+      "id": 275,
+      "topic": "Stacks & Queues",
+      "problem": "Reverse a String using Stack",
+      "link": "https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1"
+    },
+    {
+      "id": 276,
+      "topic": "Stacks & Queues",
+      "problem": "Design a Stack that supports getMin() in O(1) time and O(1) extra space.",
+      "link": "https://practice.geeksforgeeks.org/problems/special-stack/1"
+    },
+    {
+      "id": 277,
+      "topic": "Stacks & Queues",
+      "problem": "Find the next Greater element",
+      "link": "https://practice.geeksforgeeks.org/problems/next-larger-element/0"
+    },
+    {
+      "id": 278,
+      "topic": "Stacks & Queues",
+      "problem": "The celebrity Problem",
+      "link": "https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1"
+    },
+    {
+      "id": 279,
+      "topic": "Stacks & Queues",
+      "problem": "Arithmetic Expression evaluation",
+      "link": "https://www.geeksforgeeks.org/arithmetic-expression-evalution/#:~:text=The%20stack%20organization%20is%20very,i.e.%2C%20A%20%2B%20B)."
+    },
+    {
+      "id": 280,
+      "topic": "Stacks & Queues",
+      "problem": "Evaluation of Postfix expression",
+      "link": "https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression/0"
+    },
+    {
+      "id": 281,
+      "topic": "Stacks & Queues",
+      "problem": "Implement a method to insert an element at its bottom without using any other data structure.",
+      "link": "https://stackoverflow.com/questions/45130465/inserting-at-the-end-of-stack"
+    },
+    {
+      "id": 282,
+      "topic": "Stacks & Queues",
+      "problem": "Reverse a stack using recursion",
+      "link": "https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/"
+    },
+    {
+      "id": 283,
+      "topic": "Stacks & Queues",
+      "problem": "Sort a Stack using recursion",
+      "link": "https://practice.geeksforgeeks.org/problems/sort-a-stack/1"
+    },
+    {
+      "id": 284,
+      "topic": "Stacks & Queues",
+      "problem": "Merge Overlapping Intervals",
+      "link": "https://practice.geeksforgeeks.org/problems/overlapping-intervals/0"
+    },
+    {
+      "id": 285,
+      "topic": "Stacks & Queues",
+      "problem": "Largest rectangular Area in Histogram",
+      "link": "https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram/0"
+    },
+    {
+      "id": 286,
+      "topic": "Stacks & Queues",
+      "problem": "Length of the Longest Valid Substring",
+      "link": "https://practice.geeksforgeeks.org/problems/valid-substring0624/1"
+    },
+    {
+      "id": 287,
+      "topic": "Stacks & Queues",
+      "problem": "Expression contains redundant bracket or not",
+      "link": "https://www.geeksforgeeks.org/expression-contains-redundant-bracket-not/"
+    },
+    {
+      "id": 288,
+      "topic": "Stacks & Queues",
+      "problem": "Implement Stack using Queue",
+      "link": "https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1"
+    },
+    {
+      "id": 289,
+      "topic": "Stacks & Queues",
+      "problem": "Implement Stack using Deque",
+      "link": "https://www.geeksforgeeks.org/implement-stack-queue-using-deque/"
+    },
+    {
+      "id": 290,
+      "topic": "Stacks & Queues",
+      "problem": "Stack Permutations (Check if an array is stack permutation of other)",
+      "link": "https://www.geeksforgeeks.org/stack-permutations-check-if-an-array-is-stack-permutation-of-other/"
+    },
+    {
+      "id": 291,
+      "topic": "Stacks & Queues",
+      "problem": "Implement Queue using Stack  ",
+      "link": "https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1"
+    },
+    {
+      "id": 292,
+      "topic": "Stacks & Queues",
+      "problem": "Implement \"n\" queue in an array",
+      "link": "https://www.geeksforgeeks.org/efficiently-implement-k-queues-single-array/"
+    },
+    {
+      "id": 293,
+      "topic": "Stacks & Queues",
+      "problem": "Implement a Circular queue",
+      "link": "https://www.geeksforgeeks.org/circular-queue-set-1-introduction-array-implementation/"
+    },
+    {
+      "id": 294,
+      "topic": "Stacks & Queues",
+      "problem": "LRU Cache Implementationa",
+      "link": "https://practice.geeksforgeeks.org/problems/lru-cache/1"
+    },
+    {
+      "id": 295,
+      "topic": "Stacks & Queues",
+      "problem": "Reverse a Queue using recursion",
+      "link": "https://practice.geeksforgeeks.org/problems/queue-reversal/1"
+    },
+    {
+      "id": 296,
+      "topic": "Stacks & Queues",
+      "problem": "Reverse the first “K” elements of a queue",
+      "link": "https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1"
+    },
+    {
+      "id": 297,
+      "topic": "Stacks & Queues",
+      "problem": "Interleave the first half of the queue with second half",
+      "link": "https://www.geeksforgeeks.org/interleave-first-half-queue-second-half/"
+    },
+    {
+      "id": 298,
+      "topic": "Stacks & Queues",
+      "problem": "Find the first circular tour that visits all Petrol Pumps",
+      "link": "https://practice.geeksforgeeks.org/problems/circular-tour/1"
+    },
+    {
+      "id": 299,
+      "topic": "Stacks & Queues",
+      "problem": "Minimum time required to rot all oranges",
+      "link": "https://practice.geeksforgeeks.org/problems/rotten-oranges/0"
+    },
+    {
+      "id": 300,
+      "topic": "Stacks & Queues",
+      "problem": "Distance of nearest cell having 1 in a binary matrix",
+      "link": "https://practice.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1/0"
+    },
+    {
+      "id": 301,
+      "topic": "Stacks & Queues",
+      "problem": "First negative integer in every window of size “k”",
+      "link": "https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k/0"
+    },
+    {
+      "id": 302,
+      "topic": "Stacks & Queues",
+      "problem": "Check if all levels of two trees are anagrams or not.",
+      "link": "https://www.geeksforgeeks.org/check-if-all-levels-of-two-trees-are-anagrams-or-not/"
+    },
+    {
+      "id": 303,
+      "topic": "Stacks & Queues",
+      "problem": "Sum of minimum and maximum elements of all subarrays of size “k”.",
+      "link": "https://www.geeksforgeeks.org/sum-minimum-maximum-elements-subarrays-size-k/"
+    },
+    {
+      "id": 304,
+      "topic": "Stacks & Queues",
+      "problem": "Minimum sum of squares of character counts in a given string after removing “k” characters.",
+      "link": "https://practice.geeksforgeeks.org/problems/game-with-string/0"
+    },
+    {
+      "id": 305,
+      "topic": "Stacks & Queues",
+      "problem": "Queue based approach or first non-repeating character in a stream.",
+      "link": "https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0"
+    },
+    {
+      "id": 306,
+      "topic": "Stacks & Queues",
+      "problem": "Next Smaller Element",
+      "link": "https://www.geeksforgeeks.org/next-smaller-element/"
+    },
+    {
+      "id": 307,
+      "topic": "Heap",
+      "problem": "Implement a Maxheap/MinHeap using arrays and recursion.",
+      "link": "https://www.geeksforgeeks.org/building-heap-from-array/"
+    },
+    {
+      "id": 308,
+      "topic": "Heap",
+      "problem": "Sort an Array using heap. (HeapSort)",
+      "link": "https://www.geeksforgeeks.org/heap-sort/"
+    },
+    {
+      "id": 309,
+      "topic": "Heap",
+      "problem": "Maximum of all subarrays of size k.",
+      "link": "https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/"
+    },
+    {
+      "id": 310,
+      "topic": "Heap",
+      "problem": "“k” largest element in an array",
+      "link": "https://practice.geeksforgeeks.org/problems/k-largest-elements4206/1"
+    },
+    {
+      "id": 311,
+      "topic": "Heap",
+      "problem": "Kth smallest and largest element in an unsorted array",
+      "link": "https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/"
+    },
+    {
+      "id": 312,
+      "topic": "Heap",
+      "problem": "Merge “K” sorted arrays. [ IMP ]",
+      "link": "https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1"
+    },
+    {
+      "id": 313,
+      "topic": "Heap",
+      "problem": "Merge 2 Binary Max Heaps",
+      "link": "https://practice.geeksforgeeks.org/problems/merge-two-binary-max-heap/0"
+    },
+    {
+      "id": 314,
+      "topic": "Heap",
+      "problem": "Kth largest sum continuous subarrays",
+      "link": "https://www.geeksforgeeks.org/k-th-largest-sum-contiguous-subarray/"
+    },
+    {
+      "id": 315,
+      "topic": "Heap",
+      "problem": "Leetcode- reorganize strings",
+      "link": "https://leetcode.com/problems/reorganize-string/"
+    },
+    {
+      "id": 316,
+      "topic": "Heap",
+      "problem": "Merge “K” Sorted Linked Lists [V.IMP]",
+      "link": "https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1"
+    },
+    {
+      "id": 317,
+      "topic": "Heap",
+      "problem": "Smallest range in “K” Lists",
+      "link": "https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1"
+    },
+    {
+      "id": 318,
+      "topic": "Heap",
+      "problem": "Median in a stream of Integers",
+      "link": "https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0"
+    },
+    {
+      "id": 319,
+      "topic": "Heap",
+      "problem": "Check if a Binary Tree is Heap",
+      "link": "https://practice.geeksforgeeks.org/problems/is-binary-tree-heap/1"
+    },
+    {
+      "id": 320,
+      "topic": "Heap",
+      "problem": "Connect “n” ropes with minimum cost",
+      "link": "https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0"
+    },
+    {
+      "id": 321,
+      "topic": "Heap",
+      "problem": "Convert BST to Min Heap",
+      "link": "https://www.geeksforgeeks.org/convert-bst-min-heap/"
+    },
+    {
+      "id": 322,
+      "topic": "Heap",
+      "problem": "Convert min heap to max heap",
+      "link": "https://www.geeksforgeeks.org/convert-min-heap-to-max-heap/"
+    },
+    {
+      "id": 323,
+      "topic": "Heap",
+      "problem": "Rearrange characters in a string such that no two adjacent are same.",
+      "link": "https://practice.geeksforgeeks.org/problems/rearrange-characters/0"
+    },
+    {
+      "id": 324,
+      "topic": "Heap",
+      "problem": "Minimum sum of two numbers formed from digits of an array",
+      "link": "https://practice.geeksforgeeks.org/problems/minimum-sum4058/1"
+    },
+    {
+      "id": 325,
+      "topic": "Graph",
+      "problem": "Create a Graph, print it",
+      "link": "https://1drv.ms/t/s!AqTOHFO77CqEiRua06v1PATyiFg5"
+    },
+    {
+      "id": 326,
+      "topic": "Graph",
+      "problem": "Implement BFS algorithm ",
+      "link": "https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1"
+    },
+    {
+      "id": 327,
+      "topic": "Graph",
+      "problem": "Implement DFS Algo ",
+      "link": "https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/"
+    },
+    {
+      "id": 328,
+      "topic": "Graph",
+      "problem": "Detect Cycle in Directed Graph using BFS/DFS Algo ",
+      "link": "https://www.geeksforgeeks.org/detect-cycle-in-a-graph/"
+    },
+    {
+      "id": 329,
+      "topic": "Graph",
+      "problem": "Detect Cycle in UnDirected Graph using BFS/DFS Algo ",
+      "link": "https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1"
+    },
+    {
+      "id": 330,
+      "topic": "Graph",
+      "problem": "Search in a Maze",
+      "link": "https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1"
+    },
+    {
+      "id": 331,
+      "topic": "Graph",
+      "problem": "Minimum Step by Knight",
+      "link": "https://practice.geeksforgeeks.org/problems/steps-by-knight/0"
+    },
+    {
+      "id": 332,
+      "topic": "Graph",
+      "problem": "flood fill algo",
+      "link": "https://leetcode.com/problems/flood-fill/"
+    },
+    {
+      "id": 333,
+      "topic": "Graph",
+      "problem": "Clone a graph",
+      "link": "https://leetcode.com/problems/clone-graph/"
+    },
+    {
+      "id": 334,
+      "topic": "Graph",
+      "problem": "Making wired Connections",
+      "link": "https://leetcode.com/problems/number-of-operations-to-make-network-connected/"
+    },
+    {
+      "id": 335,
+      "topic": "Graph",
+      "problem": "word Ladder ",
+      "link": "https://leetcode.com/problems/word-ladder/"
+    },
+    {
+      "id": 336,
+      "topic": "Graph",
+      "problem": "Dijkstra algo",
+      "link": "https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/"
+    },
+    {
+      "id": 337,
+      "topic": "Graph",
+      "problem": "Implement Topological Sort ",
+      "link": "https://practice.geeksforgeeks.org/problems/topological-sort/1"
+    },
+    {
+      "id": 338,
+      "topic": "Graph",
+      "problem": "Minimum time taken by each job to be completed given by a Directed Acyclic Graph",
+      "link": "https://www.geeksforgeeks.org/minimum-time-taken-by-each-job-to-be-completed-given-by-a-directed-acyclic-graph/"
+    },
+    {
+      "id": 339,
+      "topic": "Graph",
+      "problem": "Find whether it is possible to finish all tasks or not from given dependencies",
+      "link": "https://www.geeksforgeeks.org/find-whether-it-is-possible-to-finish-all-tasks-or-not-from-given-dependencies/"
+    },
+    {
+      "id": 340,
+      "topic": "Graph",
+      "problem": "Find the no. of Isalnds",
+      "link": "https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1"
+    },
+    {
+      "id": 341,
+      "topic": "Graph",
+      "problem": "Given a sorted Dictionary of an Alien Language, find order of characters",
+      "link": "https://practice.geeksforgeeks.org/problems/alien-dictionary/1"
+    },
+    {
+      "id": 342,
+      "topic": "Graph",
+      "problem": "Implement Kruksal’sAlgorithm",
+      "link": "https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/"
+    },
+    {
+      "id": 343,
+      "topic": "Graph",
+      "problem": "Implement Prim’s Algorithm",
+      "link": "https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/"
+    },
+    {
+      "id": 344,
+      "topic": "Graph",
+      "problem": "Total no. of Spanning tree in a graph",
+      "link": "https://www.geeksforgeeks.org/total-number-spanning-trees-graph/"
+    },
+    {
+      "id": 345,
+      "topic": "Graph",
+      "problem": "Implement Bellman Ford Algorithm",
+      "link": "https://practice.geeksforgeeks.org/problems/negative-weight-cycle/0"
+    },
+    {
+      "id": 346,
+      "topic": "Graph",
+      "problem": "Implement Floyd warshallAlgorithm",
+      "link": "https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall/0"
+    },
+    {
+      "id": 347,
+      "topic": "Graph",
+      "problem": "Travelling Salesman Problem",
+      "link": "https://www.geeksforgeeks.org/travelling-salesman-problem-set-1/"
+    },
+    {
+      "id": 348,
+      "topic": "Graph",
+      "problem": "Graph ColouringProblem",
+      "link": "https://www.geeksforgeeks.org/graph-coloring-applications/#:~:text=Graph%20coloring%20problem%20is%20to,are%20colored%20using%20same%20color."
+    },
+    {
+      "id": 349,
+      "topic": "Graph",
+      "problem": "Snake and Ladders Problem",
+      "link": "https://leetcode.com/problems/snakes-and-ladders/"
+    },
+    {
+      "id": 350,
+      "topic": "Graph",
+      "problem": "Find bridge in a graph",
+      "link": "https://www.geeksforgeeks.org/bridge-in-a-graph/"
+    },
+    {
+      "id": 351,
+      "topic": "Graph",
+      "problem": "Count Strongly connected Components(Kosaraju Algo)",
+      "link": "https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1"
+    },
+    {
+      "id": 352,
+      "topic": "Graph",
+      "problem": "Check whether a graph is Bipartite or Not",
+      "link": "https://www.geeksforgeeks.org/bipartite-graph/"
+    },
+    {
+      "id": 353,
+      "topic": "Graph",
+      "problem": "Detect Negative cycle in a graph",
+      "link": "https://www.geeksforgeeks.org/detect-negative-cycle-graph-bellman-ford/"
+    },
+    {
+      "id": 354,
+      "topic": "Graph",
+      "problem": "Longest path in a Directed Acyclic Graph",
+      "link": "https://www.geeksforgeeks.org/find-longest-path-directed-acyclic-graph/"
+    },
+    {
+      "id": 355,
+      "topic": "Graph",
+      "problem": "Journey to the Moon",
+      "link": "https://www.hackerrank.com/challenges/journey-to-the-moon/problem"
+    },
+    {
+      "id": 356,
+      "topic": "Graph",
+      "problem": "Cheapest Flights Within K Stops",
+      "link": "https://leetcode.com/problems/cheapest-flights-within-k-stops/description/"
+    },
+    {
+      "id": 357,
+      "topic": "Graph",
+      "problem": "Oliver and the Game",
+      "link": "https://www.hackerearth.com/practice/algorithms/graphs/topological-sort/practice-problems/algorithm/oliver-and-the-game-3/"
+    },
+    {
+      "id": 358,
+      "topic": "Graph",
+      "problem": "Water Jug problem using BFS",
+      "link": "https://www.geeksforgeeks.org/water-jug-problem-using-bfs/"
+    },
+    {
+      "id": 359,
+      "topic": "Graph",
+      "problem": "Water Jug problem using BFS",
+      "link": "https://www.geeksforgeeks.org/water-jug-problem-using-bfs/"
+    },
+    {
+      "id": 360,
+      "topic": "Graph",
+      "problem": "Find if there is a path of more thank length from a source",
+      "link": "https://www.geeksforgeeks.org/find-if-there-is-a-path-of-more-than-k-length-from-a-source/"
+    },
+    {
+      "id": 361,
+      "topic": "Graph",
+      "problem": "M-ColouringProblem",
+      "link": "https://practice.geeksforgeeks.org/problems/m-coloring-problem/0"
+    },
+    {
+      "id": 362,
+      "topic": "Graph",
+      "problem": "Minimum edges to reverse o make path from source to destination",
+      "link": "https://www.geeksforgeeks.org/minimum-edges-reverse-make-path-source-destination/"
+    },
+    {
+      "id": 363,
+      "topic": "Graph",
+      "problem": "Paths to travel each nodes using each edge(Seven Bridges)",
+      "link": "https://www.geeksforgeeks.org/paths-travel-nodes-using-edgeseven-bridges-konigsberg/"
+    },
+    {
+      "id": 364,
+      "topic": "Graph",
+      "problem": "Vertex Cover Problem",
+      "link": "https://www.geeksforgeeks.org/vertex-cover-problem-set-1-introduction-approximate-algorithm-2/"
+    },
+    {
+      "id": 365,
+      "topic": "Graph",
+      "problem": "Chinese Postman or Route Inspection",
+      "link": "https://www.geeksforgeeks.org/chinese-postman-route-inspection-set-1-introduction/"
+    },
+    {
+      "id": 366,
+      "topic": "Graph",
+      "problem": "Number of Triangles in a Directed and Undirected Graph",
+      "link": "https://www.geeksforgeeks.org/number-of-triangles-in-directed-and-undirected-graphs/"
+    },
+    {
+      "id": 367,
+      "topic": "Graph",
+      "problem": "Minimise the cashflow among a given set of friends who have borrowed money from each other",
+      "link": "https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/"
+    },
+    {
+      "id": 368,
+      "topic": "Graph",
+      "problem": "Two Clique Problem",
+      "link": "https://www.geeksforgeeks.org/two-clique-problem-check-graph-can-divided-two-cliques/"
+    },
+    {
+      "id": 369,
+      "topic": "Tries",
+      "problem": "Construct a Tries from scratch",
+      "link": "https://www.geeksforgeeks.org/trie-insert-and-search/"
+    },
+    {
+      "id": 370,
+      "topic": "Tries",
+      "problem": "Find shortest unique prefix for every word in a given list",
+      "link": "https://www.geeksforgeeks.org/find-all-shortest-unique-prefixes-to-represent-each-word-in-a-given-list/"
+    },
+    {
+      "id": 371,
+      "topic": "Tries",
+      "problem": "Word Break Problem | (Tries solution)",
+      "link": "https://www.geeksforgeeks.org/word-break-problem-trie-solution/"
+    },
+    {
+      "id": 372,
+      "topic": "Tries",
+      "problem": "Given a sequence of words, print all anagrams together",
+      "link": "https://practice.geeksforgeeks.org/problems/k-anagrams-1/0"
+    },
+    {
+      "id": 373,
+      "topic": "Tries",
+      "problem": "Implement a Phone Directory",
+      "link": "https://practice.geeksforgeeks.org/problems/phone-directory/0"
+    },
+    {
+      "id": 374,
+      "topic": "Tries",
+      "problem": "Print unique rows in a given boolean matrix",
+      "link": "https://practice.geeksforgeeks.org/problems/unique-rows-in-boolean-matrix/1"
+    },
+    {
+      "id": 375,
+      "topic": "Dynamic Programming",
+      "problem": "Coin ChangeProblem",
+      "link": "https://practice.geeksforgeeks.org/problems/coin-change2448/1"
+    },
+    {
+      "id": 376,
+      "topic": "Dynamic Programming",
+      "problem": "Knapsack Problem",
+      "link": "https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0"
+    },
+    {
+      "id": 377,
+      "topic": "Dynamic Programming",
+      "problem": "Binomial CoefficientProblem",
+      "link": "https://practice.geeksforgeeks.org/problems/ncr1019/1"
+    },
+    {
+      "id": 378,
+      "topic": "Dynamic Programming",
+      "problem": "Permutation CoefficientProblem",
+      "link": "https://www.geeksforgeeks.org/permutation-coefficient/"
+    },
+    {
+      "id": 379,
+      "topic": "Dynamic Programming",
+      "problem": "Program for nth Catalan Number",
+      "link": "https://www.geeksforgeeks.org/program-nth-catalan-number/"
+    },
+    {
+      "id": 380,
+      "topic": "Dynamic Programming",
+      "problem": "Matrix Chain Multiplication ",
+      "link": "https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/"
+    },
+    {
+      "id": 381,
+      "topic": "Dynamic Programming",
+      "problem": "Edit Distance",
+      "link": "https://practice.geeksforgeeks.org/problems/edit-distance3702/1"
+    },
+    {
+      "id": 382,
+      "topic": "Dynamic Programming",
+      "problem": "Subset Sum Problem",
+      "link": "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1"
+    },
+    {
+      "id": 383,
+      "topic": "Dynamic Programming",
+      "problem": "Friends Pairing Problem",
+      "link": "https://practice.geeksforgeeks.org/problems/friends-pairing-problem5425/1"
+    },
+    {
+      "id": 384,
+      "topic": "Dynamic Programming",
+      "problem": "Gold Mine Problem",
+      "link": "https://www.geeksforgeeks.org/gold-mine-problem/"
+    },
+    {
+      "id": 385,
+      "topic": "Dynamic Programming",
+      "problem": "Assembly Line SchedulingProblem",
+      "link": "https://www.geeksforgeeks.org/assembly-line-scheduling-dp-34/"
+    },
+    {
+      "id": 386,
+      "topic": "Dynamic Programming",
+      "problem": "Painting the Fenceproblem",
+      "link": "https://practice.geeksforgeeks.org/problems/painting-the-fence3727/1"
+    },
+    {
+      "id": 387,
+      "topic": "Dynamic Programming",
+      "problem": "Maximize The Cut Segments",
+      "link": "https://practice.geeksforgeeks.org/problems/cutted-segments/0"
+    },
+    {
+      "id": 388,
+      "topic": "Dynamic Programming",
+      "problem": "Longest Common Subsequence",
+      "link": "https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0"
+    },
+    {
+      "id": 389,
+      "topic": "Dynamic Programming",
+      "problem": "Longest Repeated Subsequence",
+      "link": "https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0"
+    },
+    {
+      "id": 390,
+      "topic": "Dynamic Programming",
+      "problem": "Longest Increasing Subsequence",
+      "link": "https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0"
+    },
+    {
+      "id": 391,
+      "topic": "Dynamic Programming",
+      "problem": "Space Optimized Solution of LCS",
+      "link": "https://www.geeksforgeeks.org/space-optimized-solution-lcs/"
+    },
+    {
+      "id": 392,
+      "topic": "Dynamic Programming",
+      "problem": "LCS (Longest Common Subsequence) of three strings",
+      "link": "https://practice.geeksforgeeks.org/problems/lcs-of-three-strings/0"
+    },
+    {
+      "id": 393,
+      "topic": "Dynamic Programming",
+      "problem": "Maximum Sum Increasing Subsequence",
+      "link": "https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1"
+    },
+    {
+      "id": 394,
+      "topic": "Dynamic Programming",
+      "problem": "Count all subsequences having product less than K",
+      "link": "https://www.geeksforgeeks.org/count-subsequences-product-less-k/"
+    },
+    {
+      "id": 395,
+      "topic": "Dynamic Programming",
+      "problem": "Longest subsequence such that difference between adjacent is one",
+      "link": "https://practice.geeksforgeeks.org/problems/longest-subsequence-such-that-difference-between-adjacents-is-one4724/1"
+    },
+    {
+      "id": 396,
+      "topic": "Dynamic Programming",
+      "problem": "Maximum subsequence sum such that no three are consecutive",
+      "link": "https://www.geeksforgeeks.org/maximum-subsequence-sum-such-that-no-three-are-consecutive/"
+    },
+    {
+      "id": 397,
+      "topic": "Dynamic Programming",
+      "problem": "Egg Dropping Problem",
+      "link": "https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle/0"
+    },
+    {
+      "id": 398,
+      "topic": "Dynamic Programming",
+      "problem": "Maximum Length Chain of Pairs",
+      "link": "https://practice.geeksforgeeks.org/problems/max-length-chain/1"
+    },
+    {
+      "id": 399,
+      "topic": "Dynamic Programming",
+      "problem": "Maximum size square sub-matrix with all 1s",
+      "link": "https://practice.geeksforgeeks.org/problems/largest-square-formed-in-a-matrix/0"
+    },
+    {
+      "id": 400,
+      "topic": "Dynamic Programming",
+      "problem": "Maximum sum of pairs with specific difference",
+      "link": "https://practice.geeksforgeeks.org/problems/pairs-with-specific-difference/0"
+    },
+    {
+      "id": 401,
+      "topic": "Dynamic Programming",
+      "problem": "Min Cost PathProblem",
+      "link": "https://practice.geeksforgeeks.org/problems/path-in-matrix3805/1"
+    },
+    {
+      "id": 402,
+      "topic": "Dynamic Programming",
+      "problem": "Maximum difference of zeros and ones in binary string",
+      "link": "https://practice.geeksforgeeks.org/problems/maximum-difference-of-zeros-and-ones-in-binary-string4111/1"
+    },
+    {
+      "id": 403,
+      "topic": "Dynamic Programming",
+      "problem": "Minimum number of jumps to reach end",
+      "link": "https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0"
+    },
+    {
+      "id": 404,
+      "topic": "Dynamic Programming",
+      "problem": "Minimum cost to fill given weight in a bag",
+      "link": "https://practice.geeksforgeeks.org/problems/minimum-cost-to-fill-given-weight-in-a-bag1956/1"
+    },
+    {
+      "id": 405,
+      "topic": "Dynamic Programming",
+      "problem": "Minimum removals from array to make max –min <= K",
+      "link": "https://www.geeksforgeeks.org/minimum-removals-array-make-max-min-k/"
+    },
+    {
+      "id": 406,
+      "topic": "Dynamic Programming",
+      "problem": "Longest Common Substring",
+      "link": "https://practice.geeksforgeeks.org/problems/longest-common-substring/0"
+    },
+    {
+      "id": 407,
+      "topic": "Dynamic Programming",
+      "problem": "Count number of ways to reacha given score in a game",
+      "link": "https://practice.geeksforgeeks.org/problems/reach-a-given-score/0"
+    },
+    {
+      "id": 408,
+      "topic": "Dynamic Programming",
+      "problem": "Count Balanced Binary Trees of Height h",
+      "link": "https://practice.geeksforgeeks.org/problems/bbt-counter/0"
+    },
+    {
+      "id": 409,
+      "topic": "Dynamic Programming",
+      "problem": "LargestSum Contiguous Subarray [V>V>V>V IMP ]",
+      "link": "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0"
+    },
+    {
+      "id": 410,
+      "topic": "Dynamic Programming",
+      "problem": "Smallest sum contiguous subarray",
+      "link": "https://www.geeksforgeeks.org/smallest-sum-contiguous-subarray/"
+    },
+    {
+      "id": 411,
+      "topic": "Dynamic Programming",
+      "problem": "Unbounded Knapsack (Repetition of items allowed)",
+      "link": "https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1"
+    },
+    {
+      "id": 412,
+      "topic": "Dynamic Programming",
+      "problem": "Word Break Problem",
+      "link": "https://practice.geeksforgeeks.org/problems/word-break/0"
+    },
+    {
+      "id": 413,
+      "topic": "Dynamic Programming",
+      "problem": "Largest Independent Set Problem",
+      "link": "https://www.geeksforgeeks.org/largest-independent-set-problem-dp-26/"
+    },
+    {
+      "id": 414,
+      "topic": "Dynamic Programming",
+      "problem": "Partition problem",
+      "link": "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1"
+    },
+    {
+      "id": 415,
+      "topic": "Dynamic Programming",
+      "problem": "Longest Palindromic Subsequence",
+      "link": "https://www.geeksforgeeks.org/longest-palindromic-subsequence-dp-12/"
+    },
+    {
+      "id": 416,
+      "topic": "Dynamic Programming",
+      "problem": "Count All Palindromic Subsequence in a given String",
+      "link": "https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1"
+    },
+    {
+      "id": 417,
+      "topic": "Dynamic Programming",
+      "problem": "Longest Palindromic Substring",
+      "link": "https://leetcode.com/problems/longest-palindromic-substring/"
+    },
+    {
+      "id": 418,
+      "topic": "Dynamic Programming",
+      "problem": "Longest alternating subsequence",
+      "link": "https://practice.geeksforgeeks.org/problems/longest-alternating-subsequence/0"
+    },
+    {
+      "id": 419,
+      "topic": "Dynamic Programming",
+      "problem": "Weighted Job Scheduling",
+      "link": "https://www.geeksforgeeks.org/weighted-job-scheduling/"
+    },
+    {
+      "id": 420,
+      "topic": "Dynamic Programming",
+      "problem": "Coin game winner where every player has three choices",
+      "link": "https://www.geeksforgeeks.org/coin-game-winner-every-player-three-choices/"
+    },
+    {
+      "id": 421,
+      "topic": "Dynamic Programming",
+      "problem": "Count Derangements (Permutation such that no element appears in its original position) [ IMPORTANT ]",
+      "link": "https://www.geeksforgeeks.org/count-derangements-permutation-such-that-no-element-appears-in-its-original-position/"
+    },
+    {
+      "id": 422,
+      "topic": "Dynamic Programming",
+      "problem": "Maximum profit by buying and selling a share at most twice [ IMP ]",
+      "link": "https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-twice/"
+    },
+    {
+      "id": 423,
+      "topic": "Dynamic Programming",
+      "problem": "Optimal Strategy for a Game",
+      "link": "https://practice.geeksforgeeks.org/problems/optimal-strategy-for-a-game/0"
+    },
+    {
+      "id": 424,
+      "topic": "Dynamic Programming",
+      "problem": "Optimal Binary Search Tree",
+      "link": "https://www.geeksforgeeks.org/optimal-binary-search-tree-dp-24/"
+    },
+    {
+      "id": 425,
+      "topic": "Dynamic Programming",
+      "problem": "Palindrome PartitioningProblem",
+      "link": "https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1"
+    },
+    {
+      "id": 426,
+      "topic": "Dynamic Programming",
+      "problem": "Word Wrap Problem",
+      "link": "https://practice.geeksforgeeks.org/problems/word-wrap/0"
+    },
+    {
+      "id": 427,
+      "topic": "Dynamic Programming",
+      "problem": "Mobile Numeric Keypad Problem [ IMP ]",
+      "link": "https://practice.geeksforgeeks.org/problems/mobile-numeric-keypad5456/1"
+    },
+    {
+      "id": 428,
+      "topic": "Dynamic Programming",
+      "problem": "Boolean Parenthesization Problem",
+      "link": "https://practice.geeksforgeeks.org/problems/boolean-parenthesization/0"
+    },
+    {
+      "id": 429,
+      "topic": "Dynamic Programming",
+      "problem": "Largest rectangular sub-matrix whose sum is 0",
+      "link": "https://www.geeksforgeeks.org/largest-rectangular-sub-matrix-whose-sum-0/"
+    },
+    {
+      "id": 430,
+      "topic": "Dynamic Programming",
+      "problem": "Largest area rectangular sub-matrix with equal number of 1’s and 0’s [ IMP ]",
+      "link": "https://www.geeksforgeeks.org/largest-area-rectangular-sub-matrix-equal-number-1s-0s/"
+    },
+    {
+      "id": 431,
+      "topic": "Dynamic Programming",
+      "problem": "Maximum sum rectangle in a 2D matrix",
+      "link": "https://practice.geeksforgeeks.org/problems/maximum-sum-rectangle/0"
+    },
+    {
+      "id": 432,
+      "topic": "Dynamic Programming",
+      "problem": "Maximum profit by buying and selling a share at most k times",
+      "link": "https://practice.geeksforgeeks.org/problems/maximum-profit4657/1"
+    },
+    {
+      "id": 433,
+      "topic": "Dynamic Programming",
+      "problem": "Find if a string is interleaved of two other strings",
+      "link": "https://practice.geeksforgeeks.org/problems/interleaved-strings/1"
+    },
+    {
+      "id": 434,
+      "topic": "Dynamic Programming",
+      "problem": "Maximum Length of Pair Chain",
+      "link": "https://leetcode.com/problems/maximum-length-of-pair-chain/"
+    },
+    {
+      "id": 435,
+      "topic": "Bit Manipulation",
+      "problem": "Count set bits in an integer",
+      "link": "https://practice.geeksforgeeks.org/problems/set-bits0143/1"
+    },
+    {
+      "id": 436,
+      "topic": "Bit Manipulation",
+      "problem": "Find the two non-repeating elements in an array of repeating elements",
+      "link": "https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1"
+    },
+    {
+      "id": 437,
+      "topic": "Bit Manipulation",
+      "problem": "Count number of bits to be flipped to convert A to B",
+      "link": "https://practice.geeksforgeeks.org/problems/bit-difference/0"
+    },
+    {
+      "id": 438,
+      "topic": "Bit Manipulation",
+      "problem": "Count total set bits in all numbers from 1 to n",
+      "link": "https://practice.geeksforgeeks.org/problems/count-total-set-bits/0"
+    },
+    {
+      "id": 439,
+      "topic": "Bit Manipulation",
+      "problem": "Program to find whether a no is power of two",
+      "link": "https://practice.geeksforgeeks.org/problems/power-of-2/0"
+    },
+    {
+      "id": 440,
+      "topic": "Bit Manipulation",
+      "problem": "Find position of the only set bit",
+      "link": "https://practice.geeksforgeeks.org/problems/find-position-of-set-bit3706/1"
+    },
+    {
+      "id": 441,
+      "topic": "Bit Manipulation",
+      "problem": "Copy set bits in a range",
+      "link": "https://www.geeksforgeeks.org/copy-set-bits-in-a-range/"
+    },
+    {
+      "id": 442,
+      "topic": "Bit Manipulation",
+      "problem": "Divide two integers without using multiplication, division and mod operator",
+      "link": "https://www.geeksforgeeks.org/divide-two-integers-without-using-multiplication-division-mod-operator/"
+    },
+    {
+      "id": 443,
+      "topic": "Bit Manipulation",
+      "problem": "Calculate square of a number without using *, / and pow()",
+      "link": "https://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-and-pow/#:~:text=Given%20an%20integer%20n%2C%20calculate,*%2C%20%2F%20and%20pow().&text=A%20Simple%20Solution%20is%20to%20repeatedly%20add%20n%20to%20result."
+    },
+    {
+      "id": 444,
+      "topic": "Bit Manipulation",
+      "problem": "Power Set",
+      "link": "https://practice.geeksforgeeks.org/problems/power-set4302/1"
+    },
+    {
+      "id": 445,
+      "topic": "Array",
+      "problem": "Maximum and Minimum Element in an Array",
+      "link": "https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/"
+    },
+    {
+      "id": 446,
+      "topic": "Array",
+      "problem": "Reverse the Array",
+      "link": "https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/"
+    },
+    {
+      "id": 447,
+      "topic": "Array",
+      "problem": "Maximum-Subarray",
+      "link": "https://leetcode.com/problems/maximum-subarray/"
+    },
+    {
+      "id": 448,
+      "topic": "Array",
+      "problem": "Contains Duplicate",
+      "link": "https://leetcode.com/problems/contains-duplicate/"
+    },
+    {
+      "id": 449,
+      "topic": "Array",
+      "problem": "Chocolate Distribution Problem",
+      "link": "https://www.geeksforgeeks.org/chocolate-distribution-problem/"
+    },
+    {
+      "id": 450,
+      "topic": "Array",
+      "problem": "Search in Rotated Sorted Array",
+      "link": "https://leetcode.com/problems/search-in-rotated-sorted-array/"
+    },
+    {
+      "id": 451,
+      "topic": "Array",
+      "problem": "Next Permutation",
+      "link": "https://leetcode.com/problems/next-permutation/"
+    },
+    {
+      "id": 452,
+      "topic": "Array",
+      "problem": "Best time to Buy and Sell Stock",
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+    },
+    {
+      "id": 453,
+      "topic": "Array",
+      "problem": "Repeat and Missing Number Array",
+      "link": "https://www.interviewbit.com/problems/repeat-and-missing-number-array/"
+    },
+    {
+      "id": 454,
+      "topic": "Array",
+      "problem": "Kth-Largest Element in an Array",
+      "link": "https://leetcode.com/problems/kth-largest-element-in-an-array/"
+    },
+    {
+      "id": 455,
+      "topic": "Array",
+      "problem": "Trapping Rain Water",
+      "link": "https://leetcode.com/problems/trapping-rain-water/"
+    },
+    {
+      "id": 456,
+      "topic": "Array",
+      "problem": "Product of Array Except Self",
+      "link": "https://leetcode.com/problems/product-of-array-except-self/"
+    },
+    {
+      "id": 457,
+      "topic": "Array",
+      "problem": "Maximum Product Subarray",
+      "link": "https://leetcode.com/problems/maximum-product-subarray/"
+    },
+    {
+      "id": 458,
+      "topic": "Array",
+      "problem": "Find Minimum in Rotated Sorted Array",
+      "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/"
+    },
+    {
+      "id": 459,
+      "topic": "Array",
+      "problem": "Find Pair with Sum in Sorted & Rotated Array",
+      "link": "https://www.geeksforgeeks.org/given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-a-given-sum/?ref=lbp"
+    },
+    {
+      "id": 460,
+      "topic": "Array",
+      "problem": "3Sum",
+      "link": "https://leetcode.com/problems/3sum/"
+    },
+    {
+      "id": 461,
+      "topic": "Array",
+      "problem": "Container With Most Water",
+      "link": "https://leetcode.com/problems/container-with-most-water/"
+    },
+    {
+      "id": 462,
+      "topic": "Array",
+      "problem": "Given Sum Pair",
+      "link": "https://www.geeksforgeeks.org/given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-a-given-sum/"
+    },
+    {
+      "id": 463,
+      "topic": "Array",
+      "problem": "Kth - Smallest Element",
+      "link": "https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1"
+    },
+    {
+      "id": 464,
+      "topic": "Array",
+      "problem": "Merge Overlapping Intervals",
+      "link": "https://www.geeksforgeeks.org/merging-intervals/"
+    },
+    {
+      "id": 465,
+      "topic": "Array",
+      "problem": "Find Minimum Number of Merge Operations to Make an Array Palindrome",
+      "link": "https://www.geeksforgeeks.org/find-minimum-number-of-merge-operations-to-make-an-array-palindrome/"
+    },
+    {
+      "id": 466,
+      "topic": "Array",
+      "problem": "Given an Array of Numbers Arrange the Numbers to Form the Biggest Number",
+      "link": "https://www.geeksforgeeks.org/given-an-array-of-numbers-arrange-the-numbers-to-form-the-biggest-number/"
+    },
+    {
+      "id": 467,
+      "topic": "Array",
+      "problem": "Space Optimization Using Bit Manipulations",
+      "link": "https://www.geeksforgeeks.org/space-optimization-using-bit-manipulations/"
+    },
+    {
+      "id": 468,
+      "topic": "Array",
+      "problem": "Subarray Sum Divisible K",
+      "link": "https://www.geeksforgeeks.org/longest-subarray-sum-divisible-k/"
+    },
+    {
+      "id": 469,
+      "topic": "Array",
+      "problem": "Print all Possible Combinations of r Elements in a Given Array of Size n",
+      "link": "https://www.geeksforgeeks.org/print-all-possible-combinations-of-r-elements-in-a-given-array-of-size-n/"
+    },
+    {
+      "id": 470,
+      "topic": "Array",
+      "problem": "Mo's Algorithm",
+      "link": "https://www.geeksforgeeks.org/mos-algorithm-query-square-root-decomposition-set-1-introduction/"
+    },
+    {
+      "id": 471,
+      "topic": "String",
+      "problem": "Valid Palindrome",
+      "link": "https://leetcode.com/problems/valid-palindrome/"
+    },
+    {
+      "id": 472,
+      "topic": "String",
+      "problem": "Valid Anagram",
+      "link": "https://leetcode.com/problems/valid-anagram/"
+    },
+    {
+      "id": 473,
+      "topic": "String",
+      "problem": "Valid parentheses",
+      "link": "https://leetcode.com/problems/valid-parentheses/"
+    },
+    {
+      "id": 474,
+      "topic": "String",
+      "problem": "Remove Consecutive Characters",
+      "link": "https://practice.geeksforgeeks.org/problems/consecutive-elements2306/1"
+    },
+    {
+      "id": 475,
+      "topic": "String",
+      "problem": "Longest Common Prefix",
+      "link": "https://leetcode.com/problems/longest-common-prefix/"
+    },
+    {
+      "id": 476,
+      "topic": "String",
+      "problem": "Convert a Sentence into its Equivalent Mobile Numeric Keypad Sequence",
+      "link": "https://www.geeksforgeeks.org/convert-sentence-equivalent-mobile-numeric-keypad-sequence/"
+    },
+    {
+      "id": 477,
+      "topic": "String",
+      "problem": "Print all the Duplicates in the Input String",
+      "link": "https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/"
+    },
+    {
+      "id": 478,
+      "topic": "String",
+      "problem": "Longest Substring without Repeating Characters",
+      "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+    },
+    {
+      "id": 479,
+      "topic": "String",
+      "problem": "Longest Repeating Character Replacement",
+      "link": "https://leetcode.com/problems/longest-repeating-character-replacement/"
+    },
+    {
+      "id": 480,
+      "topic": "String",
+      "problem": "Group Anagrams",
+      "link": "https://leetcode.com/problems/group-anagrams/"
+    },
+    {
+      "id": 481,
+      "topic": "String",
+      "problem": "Longest Palindromic Substring",
+      "link": "https://leetcode.com/problems/longest-palindromic-substring/"
+    },
+    {
+      "id": 482,
+      "topic": "String",
+      "problem": "Palindromic SubString",
+      "link": "https://leetcode.com/problems/palindromic-substrings/"
+    },
+    {
+      "id": 483,
+      "topic": "String",
+      "problem": "Next Permutation",
+      "link": "https://practice.geeksforgeeks.org/problems/next-permutation5226/1"
+    },
+    {
+      "id": 484,
+      "topic": "String",
+      "problem": "Count Palindromic Subsequences ",
+      "link": "https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1"
+    },
+    {
+      "id": 485,
+      "topic": "String",
+      "problem": "Smallest Window in a String Containing all the Characters of Another String",
+      "link": "https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1"
+    },
+    {
+      "id": 486,
+      "topic": "String",
+      "problem": "Wildcard String Matching",
+      "link": "https://practice.geeksforgeeks.org/problems/wildcard-string-matching1126/1"
+    },
+    {
+      "id": 487,
+      "topic": "String",
+      "problem": "Longest Prefix Suffix",
+      "link": "https://practice.geeksforgeeks.org/problems/longest-prefix-suffix2527/1"
+    },
+    {
+      "id": 488,
+      "topic": "String",
+      "problem": "Rabin-Karp Algorithm for Pattern Searching",
+      "link": "https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/"
+    },
+    {
+      "id": 489,
+      "topic": "String",
+      "problem": "Transform One String to Another using Minimum Number of Given Operation",
+      "link": "https://www.geeksforgeeks.org/transform-one-string-to-another-using-minimum-number-of-given-operation/"
+    },
+    {
+      "id": 490,
+      "topic": "String",
+      "problem": "Minimum Window Substring",
+      "link": "https://leetcode.com/problems/minimum-window-substring/"
+    },
+    {
+      "id": 491,
+      "topic": "String",
+      "problem": "Boyer Moore Algorithm for Pattern Searching",
+      "link": "https://www.geeksforgeeks.org/boyer-moore-algorithm-for-pattern-searching/"
+    },
+    {
+      "id": 492,
+      "topic": "String",
+      "problem": "Word Wrap",
+      "link": "https://practice.geeksforgeeks.org/problems/word-wrap1646/1"
+    },
+    {
+      "id": 493,
+      "topic": "Matrix",
+      "problem": "Zigzag (or diagonal) Traversal of Matrix",
+      "link": "https://www.geeksforgeeks.org/zigzag-or-diagonal-traversal-of-matrix/"
+    },
+    {
+      "id": 494,
+      "topic": "Matrix",
+      "problem": "Set Matrix Zeroes",
+      "link": "https://leetcode.com/problems/set-matrix-zeroes/"
+    },
+    {
+      "id": 495,
+      "topic": "Matrix",
+      "problem": "Spiral Matrix",
+      "link": "https://leetcode.com/problems/spiral-matrix/"
+    },
+    {
+      "id": 496,
+      "topic": "Matrix",
+      "problem": "Rotate Image",
+      "link": "https://leetcode.com/problems/rotate-image/"
+    },
+    {
+      "id": 497,
+      "topic": "Matrix",
+      "problem": "Word Search",
+      "link": "https://leetcode.com/problems/word-search/"
+    },
+    {
+      "id": 498,
+      "topic": "Matrix",
+      "problem": "Find the Number of Islands | Set 1 (Using DFS)",
+      "link": "https://www.geeksforgeeks.org/find-number-of-islands/"
+    },
+    {
+      "id": 499,
+      "topic": "Matrix",
+      "problem": "Given a Matrix of ‘O’ and ‘X’, Replace ‘O’ with ‘X’ if Surrounded by ‘X’",
+      "link": "https://www.geeksforgeeks.org/given-matrix-o-x-replace-o-x-surrounded-x/"
+    },
+    {
+      "id": 500,
+      "topic": "Matrix",
+      "problem": "Find a Common Element in all Rows of a Given Row-Wise Sorted Matrix",
+      "link": "https://www.geeksforgeeks.org/find-common-element-rows-row-wise-sorted-matrix/"
+    },
+    {
+      "id": 501,
+      "topic": "Matrix",
+      "problem": "Create a Matrix with Alternating Rectangles of O and X",
+      "link": "https://www.geeksforgeeks.org/create-a-matrix-with-alternating-rectangles-of-0-and-x/"
+    },
+    {
+      "id": 502,
+      "topic": "Matrix",
+      "problem": "Maximum Size Rectangle of all 1s",
+      "link": "https://www.geeksforgeeks.org/maximum-size-rectangle-binary-sub-matrix-1s/"
+    },
+    {
+      "id": 503,
+      "topic": "Searching & Sorting",
+      "problem": "Permute Two Arrays such that Sum of Every Pair is Greater or Equal to K",
+      "link": "https://www.geeksforgeeks.org/permute-two-arrays-sum-every-pair-greater-equal-k/"
+    },
+    {
+      "id": 504,
+      "topic": "Searching & Sorting",
+      "problem": "counting sort",
+      "link": "https://www.geeksforgeeks.org/counting-sort/"
+    },
+    {
+      "id": 505,
+      "topic": "Searching & Sorting",
+      "problem": "find common elements three sorted arrays",
+      "link": "https://www.geeksforgeeks.org/find-common-elements-three-sorted-arrays/"
+    },
+    {
+      "id": 506,
+      "topic": "Searching & Sorting",
+      "problem": "Searching in an array where adjacent differ by at most k",
+      "link": "https://www.geeksforgeeks.org/searching-array-adjacent-differ-k/"
+    },
+    {
+      "id": 507,
+      "topic": "Searching & Sorting",
+      "problem": "ceiling in a sorted array",
+      "link": "https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/"
+    },
+    {
+      "id": 508,
+      "topic": "Searching & Sorting",
+      "problem": "Piar with given difference",
+      "link": "https://www.geeksforgeeks.org/find-a-pair-with-the-given-difference/"
+    },
+    {
+      "id": 509,
+      "topic": "Searching & Sorting",
+      "problem": "majority element",
+      "link": "https://www.geeksforgeeks.org/majority-element/"
+    },
+    {
+      "id": 510,
+      "topic": "Searching & Sorting",
+      "problem": "count triplets with sum smaller that a given value",
+      "link": "https://www.geeksforgeeks.org/count-triplets-with-sum-smaller-that-a-given-value/"
+    },
+    {
+      "id": 511,
+      "topic": "Searching & Sorting",
+      "problem": "Maximum Sum Subsequence with no adjacent elements",
+      "link": "https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/"
+    },
+    {
+      "id": 512,
+      "topic": "Searching & Sorting",
+      "problem": "Merge Sorted Arrays using O(1) Space",
+      "link": "https://www.geeksforgeeks.org/merge-two-sorted-arrays-o1-extra-space/"
+    },
+    {
+      "id": 513,
+      "topic": "Searching & Sorting",
+      "problem": "Inversion of Array",
+      "link": "https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1"
+    },
+    {
+      "id": 514,
+      "topic": "Searching & Sorting",
+      "problem": "Find Duplicates in O(n) Time and O(1) Extra Space ",
+      "link": "https://www.geeksforgeeks.org/find-duplicates-in-on-time-and-constant-extra-space/"
+    },
+    {
+      "id": 515,
+      "topic": "Searching & Sorting",
+      "problem": "Radix Sort",
+      "link": "https://www.geeksforgeeks.org/radix-sort/"
+    },
+    {
+      "id": 516,
+      "topic": "Searching & Sorting",
+      "problem": "Product of Array except itself",
+      "link": "https://www.geeksforgeeks.org/a-product-array-puzzle/"
+    },
+    {
+      "id": 517,
+      "topic": "Searching & Sorting",
+      "problem": "Make all Array Elements Equal",
+      "link": "https://www.geeksforgeeks.org/make-array-elements-equal-minimum-cost/"
+    },
+    {
+      "id": 518,
+      "topic": "Searching & Sorting",
+      "problem": "Check if Reversing a Sub Array Make the Array Sorted",
+      "link": "https://www.geeksforgeeks.org/check-reversing-sub-array-make-array-sorted/"
+    },
+    {
+      "id": 519,
+      "topic": "Searching & Sorting",
+      "problem": "Find Four Elements that Sum to a Given Value",
+      "link": "https://www.geeksforgeeks.org/find-four-elements-that-sum-to-a-given-value-set-2/"
+    },
+    {
+      "id": 520,
+      "topic": "Searching & Sorting",
+      "problem": "Median of Two Sorted Array with Different Size",
+      "link": "https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/"
+    },
+    {
+      "id": 521,
+      "topic": "Searching & Sorting",
+      "problem": "Median of Stream of Integers Running Integers",
+      "link": "https://www.geeksforgeeks.org/median-of-stream-of-integers-running-integers/"
+    },
+    {
+      "id": 522,
+      "topic": "Searching & Sorting",
+      "problem": "Print Subarrays with 0 Sum",
+      "link": "https://www.geeksforgeeks.org/print-all-subarrays-with-0-sum/"
+    },
+    {
+      "id": 523,
+      "topic": "Searching & Sorting",
+      "problem": "Aggressive Cows",
+      "link": "https://www.spoj.com/problems/AGGRCOW/"
+    },
+    {
+      "id": 524,
+      "topic": "Searching & Sorting",
+      "problem": "Allocate Minimum number of Pages",
+      "link": "https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1"
+    },
+    {
+      "id": 525,
+      "topic": "Searching & Sorting",
+      "problem": "Minimum Swaps to Sort",
+      "link": "https://www.geeksforgeeks.org/minimum-number-swaps-required-sort-array/"
+    },
+    {
+      "id": 526,
+      "topic": "BackTracking",
+      "problem": "BackTracking Set 2 Rat in a Maze",
+      "link": "https://www.geeksforgeeks.org/backttracking-set-2-rat-in-a-maze/"
+    },
+    {
+      "id": 527,
+      "topic": "BackTracking",
+      "problem": "Combinational Sum",
+      "link": "https://www.geeksforgeeks.org/combinational-sum/"
+    },
+    {
+      "id": 528,
+      "topic": "BackTracking",
+      "problem": "Crossword-Puzzle",
+      "link": "https://www.hackerrank.com/challenges/crossword-puzzle/problem"
+    },
+    {
+      "id": 529,
+      "topic": "BackTracking",
+      "problem": "Longest Possible Route in a Matrix with Hurdles",
+      "link": "https://www.geeksforgeeks.org/longest-possible-route-in-a-matrix-with-hurdles/"
+    },
+    {
+      "id": 530,
+      "topic": "BackTracking",
+      "problem": "Printing all solutions in N-Queen Problem",
+      "link": "https://www.geeksforgeeks.org/printing-solutions-n-queen-problem/"
+    },
+    {
+      "id": 531,
+      "topic": "BackTracking",
+      "problem": "Solve the Sudoku",
+      "link": "https://practice.geeksforgeeks.org/problems/solve-the-sudoku-1587115621/1"
+    },
+    {
+      "id": 532,
+      "topic": "BackTracking",
+      "problem": "Partition Equal Subset Sum",
+      "link": "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1"
+    },
+    {
+      "id": 533,
+      "topic": "BackTracking",
+      "problem": "M Coloring Problem",
+      "link": "https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1"
+    },
+    {
+      "id": 534,
+      "topic": "BackTracking",
+      "problem": "Knight Tour",
+      "link": "https://www.geeksforgeeks.org/backtracking-set-1-the-knights-tour-problem/"
+    },
+    {
+      "id": 535,
+      "topic": "BackTracking",
+      "problem": "Soduko",
+      "link": "https://www.geeksforgeeks.org/backtracking-set-7-suduku/"
+    },
+    {
+      "id": 536,
+      "topic": "BackTracking",
+      "problem": "Remove Invalid Parentheses",
+      "link": "https://www.geeksforgeeks.org/remove-invalid-parentheses/"
+    },
+    {
+      "id": 537,
+      "topic": "BackTracking",
+      "problem": "Word Break Problem using BackTracking",
+      "link": "https://www.geeksforgeeks.org/word-break-problem-using-backtracking/"
+    },
+    {
+      "id": 538,
+      "topic": "BackTracking",
+      "problem": "Print all Palindromic Partitions of a String",
+      "link": "https://www.geeksforgeeks.org/print-palindromic-partitions-string/"
+    },
+    {
+      "id": 539,
+      "topic": "BackTracking",
+      "problem": "Find Shortest Safe Route in a Path with Landmines",
+      "link": "https://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-with-landmines/"
+    },
+    {
+      "id": 540,
+      "topic": "BackTracking",
+      "problem": "Partition of Set into K Subsets with Equal Sum",
+      "link": "https://www.geeksforgeeks.org/partition-set-k-subsets-equal-sum/"
+    },
+    {
+      "id": 541,
+      "topic": "BackTracking",
+      "problem": "BackTracking set-7 hamiltonian cycle",
+      "link": "https://www.geeksforgeeks.org/backtracking-set-7-hamiltonian-cycle/"
+    },
+    {
+      "id": 542,
+      "topic": "BackTracking",
+      "problem": "tug-of-war",
+      "link": "https://www.geeksforgeeks.org/tug-of-war/"
+    },
+    {
+      "id": 543,
+      "topic": "BackTracking",
+      "problem": "Maximum Possible Number by doing at most K swaps",
+      "link": "https://www.geeksforgeeks.org/find-maximum-number-possible-by-doing-at-most-k-swaps/"
+    },
+    {
+      "id": 544,
+      "topic": "BackTracking",
+      "problem": "BackTracking set-8 solving cryptarithmetic puzzles",
+      "link": "https://www.geeksforgeeks.org/backtracking-set-8-solving-cryptarithmetic-puzzles/"
+    },
+    {
+      "id": 545,
+      "topic": "BackTracking",
+      "problem": "Find paths from corner cell to middle cell in maze",
+      "link": "https://www.geeksforgeeks.org/find-paths-from-corner-cell-to-middle-cell-in-maze/"
+    },
+    {
+      "id": 546,
+      "topic": "BackTracking",
+      "problem": "Arithmetic Expressions",
+      "link": "https://www.hackerrank.com/challenges/arithmetic-expressions/problem"
+    },
+    {
+      "id": 547,
+      "topic": "LinkedList",
+      "problem": "Reverse LinkedList",
+      "link": "https://leetcode.com/problems/reverse-linked-list/"
+    },
+    {
+      "id": 548,
+      "topic": "LinkedList",
+      "problem": "LinkedList Cycle",
+      "link": "https://leetcode.com/problems/linked-list-cycle/"
+    },
+    {
+      "id": 549,
+      "topic": "LinkedList",
+      "problem": "Merge Two Sorted Lists",
+      "link": "https://leetcode.com/problems/merge-two-sorted-lists/"
+    },
+    {
+      "id": 550,
+      "topic": "LinkedList",
+      "problem": "Delete without Head node",
+      "link": "https://www.geeksforgeeks.org/given-only-a-pointer-to-a-node-to-be-deleted-in-a-singly-linked-list-how-do-you-delete-it/"
+    },
+    {
+      "id": 551,
+      "topic": "LinkedList",
+      "problem": "Remove duplicates from an unsorted LinkedList",
+      "link": "https://www.geeksforgeeks.org/remove-duplicates-from-an-unsorted-linked-list/"
+    },
+    {
+      "id": 552,
+      "topic": "LinkedList",
+      "problem": "Sort a LinkedList of 0s-1s-or-2s",
+      "link": "https://www.geeksforgeeks.org/sort-a-linked-list-of-0s-1s-or-2s/"
+    },
+    {
+      "id": 553,
+      "topic": "LinkedList",
+      "problem": "Multiply two numbers represented LinkedLists",
+      "link": "https://www.geeksforgeeks.org/multiply-two-numbers-represented-linked-lists/"
+    },
+    {
+      "id": 554,
+      "topic": "LinkedList",
+      "problem": "Remove nth node from end of list",
+      "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/"
+    },
+    {
+      "id": 555,
+      "topic": "LinkedList",
+      "problem": "Reorder List",
+      "link": "https://leetcode.com/problems/reorder-list/"
+    },
+    {
+      "id": 556,
+      "topic": "LinkedList",
+      "problem": "Detect and remove loop in a LinkedList",
+      "link": "https://www.geeksforgeeks.org/detect-and-remove-loop-in-a-linked-list/"
+    },
+    {
+      "id": 557,
+      "topic": "LinkedList",
+      "problem": "Write a Function to get the Intersection Point of two LinkedLists",
+      "link": "https://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-two-linked-lists/"
+    },
+    {
+      "id": 558,
+      "topic": "LinkedList",
+      "problem": "Flatten a LinkedList with next and child pointers",
+      "link": "https://www.geeksforgeeks.org/flatten-a-linked-list-with-next-and-child-pointers/"
+    },
+    {
+      "id": 559,
+      "topic": "LinkedList",
+      "problem": "LinkedList in zig-zag fashion",
+      "link": "https://www.geeksforgeeks.org/linked-list-in-zig-zag-fashion/"
+    },
+    {
+      "id": 560,
+      "topic": "LinkedList",
+      "problem": "Reverse a doubly LinkedList",
+      "link": "https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1"
+    },
+    {
+      "id": 561,
+      "topic": "LinkedList",
+      "problem": "Delete nodes which have a greater value on right side",
+      "link": "https://www.geeksforgeeks.org/delete-nodes-which-have-a-greater-value-on-right-side/"
+    },
+    {
+      "id": 562,
+      "topic": "LinkedList",
+      "problem": "Segregate even and odd Elements in a LinkedList",
+      "link": "https://www.geeksforgeeks.org/segregate-even-and-odd-elements-in-a-linked-list/"
+    },
+    {
+      "id": 563,
+      "topic": "LinkedList",
+      "problem": "Point to next higher value node in a LinkedList with an Arbitrary Pointer",
+      "link": "https://www.geeksforgeeks.org/point-to-next-higher-value-node-in-a-linked-list-with-an-arbitrary-pointer/"
+    },
+    {
+      "id": 564,
+      "topic": "LinkedList",
+      "problem": "Rearrange a given LinkedList in place",
+      "link": "https://www.geeksforgeeks.org/rearrange-a-given-linked-list-in-place/"
+    },
+    {
+      "id": 565,
+      "topic": "LinkedList",
+      "problem": "Sort Biotonic Doubly LinkedLists",
+      "link": "https://www.geeksforgeeks.org/sort-biotonic-doubly-linked-list/"
+    },
+    {
+      "id": 566,
+      "topic": "LinkedList",
+      "problem": "Merge K Sorted Lists",
+      "link": "https://leetcode.com/problems/merge-k-sorted-lists/"
+    },
+    {
+      "id": 567,
+      "topic": "LinkedList",
+      "problem": "Merge sort for LinkedList",
+      "link": "https://www.geeksforgeeks.org/merge-sort-for-linked-list/"
+    },
+    {
+      "id": 568,
+      "topic": "LinkedList",
+      "problem": "Quicksort on singly-LinkedList",
+      "link": "https://www.geeksforgeeks.org/quicksort-on-singly-linked-list/"
+    },
+    {
+      "id": 569,
+      "topic": "LinkedList",
+      "problem": "Sum of two LinkedLists",
+      "link": "https://www.geeksforgeeks.org/sum-of-two-linked-lists/"
+    },
+    {
+      "id": 570,
+      "topic": "LinkedList",
+      "problem": "Flattening a LinkedList",
+      "link": "https://www.geeksforgeeks.org/flattening-a-linked-list/"
+    },
+    {
+      "id": 571,
+      "topic": "LinkedList",
+      "problem": "Clone a LinkedList with next and random Pointer",
+      "link": "https://www.geeksforgeeks.org/a-linked-list-with-next-and-arbit-pointer/"
+    },
+    {
+      "id": 572,
+      "topic": "LinkedList",
+      "problem": "Subtract two numbers represented as LinkedLists",
+      "link": "https://www.geeksforgeeks.org/subtract-two-numbers-represented-as-linked-lists/"
+    },
+    {
+      "id": 573,
+      "topic": "Stacks & Queues",
+      "problem": "Implement two stacks in an Array",
+      "link": "https://www.geeksforgeeks.org/implement-two-stacks-in-an-array/"
+    },
+    {
+      "id": 574,
+      "topic": "Stacks & Queues",
+      "problem": "Evaluation of Postfix Expression",
+      "link": "https://www.geeksforgeeks.org/stack-set-4-evaluation-postfix-expression/"
+    },
+    {
+      "id": 575,
+      "topic": "Stacks & Queues",
+      "problem": "Implement Stack using Queues",
+      "link": "https://leetcode.com/problems/implement-stack-using-queues/"
+    },
+    {
+      "id": 576,
+      "topic": "Stacks & Queues",
+      "problem": "Queue Reversal",
+      "link": "https://practice.geeksforgeeks.org/problems/queue-reversal/1"
+    },
+    {
+      "id": 577,
+      "topic": "Stacks & Queues",
+      "problem": "Implement Stack Queue using Deque",
+      "link": "https://www.geeksforgeeks.org/implement-stack-queue-using-deque/"
+    },
+    {
+      "id": 578,
+      "topic": "Stacks & Queues",
+      "problem": "Reverse first k elements of queue",
+      "link": "https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1"
+    },
+    {
+      "id": 579,
+      "topic": "Stacks & Queues",
+      "problem": "Design Stack with Middle Operation",
+      "link": "https://www.geeksforgeeks.org/design-a-stack-with-find-middle-operation/"
+    },
+    {
+      "id": 580,
+      "topic": "Stacks & Queues",
+      "problem": "Infix to Postfix",
+      "link": "https://www.geeksforgeeks.org/stack-set-2-infix-to-postfix/"
+    },
+    {
+      "id": 581,
+      "topic": "Stacks & Queues",
+      "problem": "Design and Implement Special stack ",
+      "link": "https://www.geeksforgeeks.org/design-and-implement-special-stack-data-structure/"
+    },
+    {
+      "id": 582,
+      "topic": "Stacks & Queues",
+      "problem": "Longest Valid String",
+      "link": "https://www.geeksforgeeks.org/length-of-the-longest-valid-substring/"
+    },
+    {
+      "id": 583,
+      "topic": "Stacks & Queues",
+      "problem": "Find if an expression has duplicate parenthesis or not",
+      "link": "https://www.geeksforgeeks.org/find-expression-duplicate-parenthesis-not/"
+    },
+    {
+      "id": 584,
+      "topic": "Stacks & Queues",
+      "problem": "Stack permutations check if an array is stack permutation of other",
+      "link": "https://www.geeksforgeeks.org/stack-permutations-check-if-an-array-is-stack-permutation-of-other/"
+    },
+    {
+      "id": 585,
+      "topic": "Stacks & Queues",
+      "problem": "Count natural numbers whose permutation greater number",
+      "link": "https://www.geeksforgeeks.org/count-natural-numbers-whose-permutation-greater-number/"
+    },
+    {
+      "id": 586,
+      "topic": "Stacks & Queues",
+      "problem": "Sort a stack using Recursion",
+      "link": "https://www.geeksforgeeks.org/sort-a-stack-using-recursion/"
+    },
+    {
+      "id": 587,
+      "topic": "Stacks & Queues",
+      "problem": "Queue based approach for first non repeating character in a stream",
+      "link": "https://www.geeksforgeeks.org/queue-based-approach-for-first-non-repeating-character-in-a-stream/"
+    },
+    {
+      "id": 588,
+      "topic": "Stacks & Queues",
+      "problem": "The Celebrity Problem",
+      "link": "https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1"
+    },
+    {
+      "id": 589,
+      "topic": "Stacks & Queues",
+      "problem": "Next larger Element",
+      "link": "https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1"
+    },
+    {
+      "id": 590,
+      "topic": "Stacks & Queues",
+      "problem": "Distance of nearest cell",
+      "link": "https://practice.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1"
+    },
+    {
+      "id": 591,
+      "topic": "Stacks & Queues",
+      "problem": "Rotten-oranges",
+      "link": "https://practice.geeksforgeeks.org/problems/rotten-oranges2536/1"
+    },
+    {
+      "id": 592,
+      "topic": "Stacks & Queues",
+      "problem": "Next smaller element",
+      "link": "https://www.geeksforgeeks.org/next-smaller-element/"
+    },
+    {
+      "id": 593,
+      "topic": "Stacks & Queues",
+      "problem": "Circular-tour",
+      "link": "https://practice.geeksforgeeks.org/problems/circular-tour/1"
+    },
+    {
+      "id": 594,
+      "topic": "Stacks & Queues",
+      "problem": "Efficiently implement k-stacks single array",
+      "link": "https://www.geeksforgeeks.org/efficiently-implement-k-stacks-single-array/"
+    },
+    {
+      "id": 595,
+      "topic": "Stacks & Queues",
+      "problem": "The celebrity problem",
+      "link": "http://geeksforgeeks.org/the-celebrity-problem/"
+    },
+    {
+      "id": 596,
+      "topic": "Stacks & Queues",
+      "problem": "Iterative tower of hanoi",
+      "link": "https://www.geeksforgeeks.org/iterative-tower-of-hanoi/"
+    },
+    {
+      "id": 597,
+      "topic": "Stacks & Queues",
+      "problem": "Find the maximum of minimums for every window size in a given array",
+      "link": "https://www.geeksforgeeks.org/find-the-maximum-of-minimums-for-every-window-size-in-a-given-array/"
+    },
+    {
+      "id": 598,
+      "topic": "Stacks & Queues",
+      "problem": "lru cache implementation",
+      "link": "https://www.geeksforgeeks.org/lru-cache-implementation/"
+    },
+    {
+      "id": 599,
+      "topic": "Stacks & Queues",
+      "problem": "Find a tour that visits all stations",
+      "link": "https://www.geeksforgeeks.org/find-a-tour-that-visits-all-stations/"
+    },
+    {
+      "id": 600,
+      "topic": "Greedy",
+      "problem": "Activity selection problem greedy algo",
+      "link": "https://www.geeksforgeeks.org/activity-selection-problem-greedy-algo-1/"
+    },
+    {
+      "id": 601,
+      "topic": "Greedy",
+      "problem": "Greedy algorithm to find minimum number of coins",
+      "link": "https://www.geeksforgeeks.org/greedy-algorithm-to-find-minimum-number-of-coins/"
+    },
+    {
+      "id": 602,
+      "topic": "Greedy",
+      "problem": "Minimum sum two numbers formed digits array-2",
+      "link": "https://www.geeksforgeeks.org/minimum-sum-two-numbers-formed-digits-array-2/"
+    },
+    {
+      "id": 603,
+      "topic": "Greedy",
+      "problem": "Minimum sum absolute difference pairs two arrays",
+      "link": "https://www.geeksforgeeks.org/minimum-sum-absolute-difference-pairs-two-arrays/"
+    },
+    {
+      "id": 604,
+      "topic": "Greedy",
+      "problem": "Find maximum height pyramid from the given array of objects",
+      "link": "https://www.geeksforgeeks.org/find-maximum-height-pyramid-from-the-given-array-of-objects/"
+    },
+    {
+      "id": 605,
+      "topic": "Greedy",
+      "problem": "Minimum cost for acquiring all coins with k extra coins allowed with every coin",
+      "link": "https://www.geeksforgeeks.org/minimum-cost-for-acquiring-all-coins-with-k-extra-coins-allowed-with-every-coin/"
+    },
+    {
+      "id": 606,
+      "topic": "Greedy",
+      "problem": "Find maximum equal sum of every three stacks",
+      "link": "http://geeksforgeeks.org/find-maximum-sum-possible-equal-sum-three-stacks/"
+    },
+    {
+      "id": 607,
+      "topic": "Greedy",
+      "problem": "Job sequencing problem",
+      "link": "https://www.geeksforgeeks.org/job-sequencing-problem/"
+    },
+    {
+      "id": 608,
+      "topic": "Greedy",
+      "problem": "Greedy algorithm egyptian fraction",
+      "link": "https://www.geeksforgeeks.org/greedy-algorithm-egyptian-fraction/"
+    },
+    {
+      "id": 609,
+      "topic": "Greedy",
+      "problem": "Fractional knapsack problem",
+      "link": "https://www.geeksforgeeks.org/fractional-knapsack-problem/"
+    },
+    {
+      "id": 610,
+      "topic": "Greedy",
+      "problem": "Maximum length chain of pairs",
+      "link": "https://www.geeksforgeeks.org/maximum-length-chain-of-pairs-dp-20/"
+    },
+    {
+      "id": 611,
+      "topic": "Greedy",
+      "problem": "Find smallest number with given number of digits and digit sum",
+      "link": "https://www.geeksforgeeks.org/find-smallest-number-with-given-number-of-digits-and-digit-sum/"
+    },
+    {
+      "id": 612,
+      "topic": "Greedy",
+      "problem": "Maximize sum of consecutive differences circular-array",
+      "link": "https://www.geeksforgeeks.org/maximize-sum-consecutive-differences-circular-array/"
+    },
+    {
+      "id": 613,
+      "topic": "Greedy",
+      "problem": "paper-cut minimum number squares",
+      "link": "https://www.geeksforgeeks.org/paper-cut-minimum-number-squares/"
+    },
+    {
+      "id": 614,
+      "topic": "Greedy",
+      "problem": "Lexicographically smallest array-k consecutive swaps",
+      "link": "http://geeksforgeeks.org/lexicographically-smallest-array-k-consecutive-swaps/"
+    },
+    {
+      "id": 615,
+      "topic": "Greedy",
+      "problem": "Problems-CHOCOLA",
+      "link": "https://www.spoj.com/problems/CHOCOLA/"
+    },
+    {
+      "id": 616,
+      "topic": "Greedy",
+      "problem": "Find minimum time to finish all jobs with given constraints",
+      "link": "https://www.geeksforgeeks.org/find-minimum-time-to-finish-all-jobs-with-given-constraints/"
+    },
+    {
+      "id": 617,
+      "topic": "Greedy",
+      "problem": "Job sequencing using disjoint set union",
+      "link": "https://www.geeksforgeeks.org/job-sequencing-using-disjoint-set-union/"
+    },
+    {
+      "id": 618,
+      "topic": "Greedy",
+      "problem": "Rearrange characters string such that no two adjacent are same",
+      "link": "https://www.geeksforgeeks.org/rearrange-characters-string-no-two-adjacent/"
+    },
+    {
+      "id": 619,
+      "topic": "Greedy",
+      "problem": "Minimum edges to reverse to make path from a source to a destination",
+      "link": "https://www.geeksforgeeks.org/minimum-edges-reverse-make-path-source-destination/"
+    },
+    {
+      "id": 620,
+      "topic": "Greedy",
+      "problem": "Minimize Cash Flow among a given set of friends who have borrowed money from each other",
+      "link": "https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/"
+    },
+    {
+      "id": 621,
+      "topic": "Greedy",
+      "problem": "Minimum Cost to cut a board into squares",
+      "link": "https://www.geeksforgeeks.org/minimum-cost-cut-board-squares/"
+    },
+    {
+      "id": 622,
+      "topic": "Binary Trees",
+      "problem": " Maximum Depth of Binary Tree",
+      "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree/"
+    },
+    {
+      "id": 623,
+      "topic": "Binary Trees",
+      "problem": "Reverse Level Order Traversal",
+      "link": "https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1"
+    },
+    {
+      "id": 624,
+      "topic": "Binary Trees",
+      "problem": "Subtree of Another Tree",
+      "link": "https://leetcode.com/problems/subtree-of-another-tree/"
+    },
+    {
+      "id": 625,
+      "topic": "Binary Trees",
+      "problem": "Invert Binary Tree",
+      "link": "https://leetcode.com/problems/invert-binary-tree/"
+    },
+    {
+      "id": 626,
+      "topic": "Binary Trees",
+      "problem": "Binary Tree Level Order Traversal",
+      "link": "https://leetcode.com/problems/binary-tree-level-order-traversal/"
+    },
+    {
+      "id": 627,
+      "topic": "Binary Trees",
+      "problem": "Left View of Binary Tree",
+      "link": "https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1"
+    },
+    {
+      "id": 628,
+      "topic": "Binary Trees",
+      "problem": "Right View of Binary Tree",
+      "link": "https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1"
+    },
+    {
+      "id": 629,
+      "topic": "Binary Trees",
+      "problem": "ZigZag Tree Traversal",
+      "link": "https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1"
+    },
+    {
+      "id": 630,
+      "topic": "Binary Trees",
+      "problem": "Create a mirror tree from the given binary tree",
+      "link": "https://www.geeksforgeeks.org/create-a-mirror-tree-from-the-given-binary-tree/"
+    },
+    {
+      "id": 631,
+      "topic": "Binary Trees",
+      "problem": "Leaf at same level",
+      "link": "https://practice.geeksforgeeks.org/problems/leaf-at-same-level/1"
+    },
+    {
+      "id": 632,
+      "topic": "Binary Trees",
+      "problem": "Check for Balanced Tree",
+      "link": "https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1"
+    },
+    {
+      "id": 633,
+      "topic": "Binary Trees",
+      "problem": "Transform to Sum Tree",
+      "link": "https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1"
+    },
+    {
+      "id": 634,
+      "topic": "Binary Trees",
+      "problem": "Check if Tree is Isomorphic ",
+      "link": "https://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1"
+    },
+    {
+      "id": 635,
+      "topic": "Binary Trees",
+      "problem": "Same Tree",
+      "link": "https://leetcode.com/problems/same-tree/"
+    },
+    {
+      "id": 636,
+      "topic": "Binary Trees",
+      "problem": "Construct Binary Tree from Preorder and Inorder Traversal",
+      "link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/"
+    },
+    {
+      "id": 637,
+      "topic": "Binary Trees",
+      "problem": "Height of Binary Tree ",
+      "link": "https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1"
+    },
+    {
+      "id": 638,
+      "topic": "Binary Trees",
+      "problem": "Diameter of a Binary Tree",
+      "link": "https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1"
+    },
+    {
+      "id": 639,
+      "topic": "Binary Trees",
+      "problem": "Top View of Binary Tree",
+      "link": "https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1"
+    },
+    {
+      "id": 640,
+      "topic": "Binary Trees",
+      "problem": "Bottom View of Binary Tree ",
+      "link": "https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1"
+    },
+    {
+      "id": 641,
+      "topic": "Binary Trees",
+      "problem": "Diagonal Traversal of Binary Tree ",
+      "link": "https://www.geeksforgeeks.org/diagonal-traversal-of-binary-tree/"
+    },
+    {
+      "id": 642,
+      "topic": "Binary Trees",
+      "problem": "Boundary Traversal of binary tree",
+      "link": "https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1"
+    },
+    {
+      "id": 643,
+      "topic": "Binary Trees",
+      "problem": "Construct Binary Tree from String with Brackets",
+      "link": "https://www.geeksforgeeks.org/construct-binary-tree-string-bracket-representation/"
+    },
+    {
+      "id": 644,
+      "topic": "Binary Trees",
+      "problem": "Minimum swap required to convert binary tree to binary search tree",
+      "link": "https://www.geeksforgeeks.org/minimum-swap-required-convert-binary-tree-binary-search-tree/#:~:text=Given%20the%20array%20representation%20of,it%20into%20Binary%20Search%20Tree.&text=Swap%201%3A%20Swap%20node%208,node%209%20with%20node%2010."
+    },
+    {
+      "id": 645,
+      "topic": "Binary Trees",
+      "problem": "Duplicate subtree in Binary Tree",
+      "link": "https://practice.geeksforgeeks.org/problems/duplicate-subtree-in-binary-tree/1"
+    },
+    {
+      "id": 646,
+      "topic": "Binary Trees",
+      "problem": "Check if a given graph is tree or not",
+      "link": "https://www.geeksforgeeks.org/check-given-graph-tree/#:~:text=Since%20the%20graph%20is%20undirected,graph%20is%20connected%2C%20otherwise%20not."
+    },
+    {
+      "id": 647,
+      "topic": "Binary Trees",
+      "problem": "Lowest Common Ancestor in a Binary Tree",
+      "link": "https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1"
+    },
+    {
+      "id": 648,
+      "topic": "Binary Trees",
+      "problem": "Min distance between two given nodes of a Binary Tree",
+      "link": "https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1"
+    },
+    {
+      "id": 649,
+      "topic": "Binary Trees",
+      "problem": "Duplicate Subtrees",
+      "link": "https://practice.geeksforgeeks.org/problems/duplicate-subtrees/1"
+    },
+    {
+      "id": 650,
+      "topic": "Binary Trees",
+      "problem": "Kth ancestor of a node in binary tree",
+      "link": "https://www.geeksforgeeks.org/kth-ancestor-node-binary-tree-set-2/"
+    },
+    {
+      "id": 651,
+      "topic": "Binary Trees",
+      "problem": "Binary Tree Maximum Path Sum",
+      "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum/"
+    },
+    {
+      "id": 652,
+      "topic": "Binary Trees",
+      "problem": "Serialize and Deserialize Binary Tree",
+      "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/"
+    },
+    {
+      "id": 653,
+      "topic": "Binary Trees",
+      "problem": "Binary Tree to DLL",
+      "link": "https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1"
+    },
+    {
+      "id": 654,
+      "topic": "Binary Trees",
+      "problem": "Print all k-sum paths in a binary tree",
+      "link": "https://www.geeksforgeeks.org/print-k-sum-paths-binary-tree/"
+    },
+    {
+      "id": 655,
+      "topic": "Binary Search Trees",
+      "problem": "Lowest Common Ancestor of a Binary Search Tree",
+      "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/"
+    },
+    {
+      "id": 656,
+      "topic": "Binary Search Trees",
+      "problem": "Binary Search Tree | Set 1 (Search and Insertion)",
+      "link": "https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/"
+    },
+    {
+      "id": 657,
+      "topic": "Binary Search Trees",
+      "problem": "Minimum element in BST ",
+      "link": "https://practice.geeksforgeeks.org/problems/minimum-element-in-bst/1"
+    },
+    {
+      "id": 658,
+      "topic": "Binary Search Trees",
+      "problem": "Predecessor and Successor",
+      "link": "https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1"
+    },
+    {
+      "id": 659,
+      "topic": "Binary Search Trees",
+      "problem": "Check whether BST contains Dead End",
+      "link": "https://practice.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1"
+    },
+    {
+      "id": 660,
+      "topic": "Binary Search Trees",
+      "problem": "Binary Tree to BST",
+      "link": "https://practice.geeksforgeeks.org/problems/binary-tree-to-bst/1"
+    },
+    {
+      "id": 661,
+      "topic": "Binary Search Trees",
+      "problem": "Kth largest element in BST ",
+      "link": "https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1"
+    },
+    {
+      "id": 662,
+      "topic": "Binary Search Trees",
+      "problem": "Validate Binary Search Tree",
+      "link": "https://leetcode.com/problems/validate-binary-search-tree/"
+    },
+    {
+      "id": 663,
+      "topic": "Binary Search Trees",
+      "problem": "Kth Smallest Element in a BST",
+      "link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/"
+    },
+    {
+      "id": 664,
+      "topic": "Binary Search Trees",
+      "problem": "Delete Node in a BST",
+      "link": "https://leetcode.com/problems/delete-node-in-a-bst/"
+    },
+    {
+      "id": 665,
+      "topic": "Binary Search Trees",
+      "problem": "Flatten BST to sorted list",
+      "link": "https://www.geeksforgeeks.org/flatten-bst-to-sorted-list-increasing-order/"
+    },
+    {
+      "id": 666,
+      "topic": "Binary Search Trees",
+      "problem": "Preorder to Postorder",
+      "link": "https://practice.geeksforgeeks.org/problems/preorder-to-postorder4423/1"
+    },
+    {
+      "id": 667,
+      "topic": "Binary Search Trees",
+      "problem": "Count BST nodes that lie in a given range ",
+      "link": "https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1"
+    },
+    {
+      "id": 668,
+      "topic": "Binary Search Trees",
+      "problem": "Populate Inorder Successor for all Nodes",
+      "link": "https://practice.geeksforgeeks.org/problems/populate-inorder-successor-for-all-nodes/1"
+    },
+    {
+      "id": 669,
+      "topic": "Binary Search Trees",
+      "problem": "Convert Normal BST to Balanced BST",
+      "link": "https://www.geeksforgeeks.org/convert-normal-bst-balanced-bst/"
+    },
+    {
+      "id": 670,
+      "topic": "Binary Search Trees",
+      "problem": "Merge two BSTs",
+      "link": "https://www.geeksforgeeks.org/merge-two-balanced-binary-search-trees/"
+    },
+    {
+      "id": 671,
+      "topic": "Binary Search Trees",
+      "problem": "Given n appointments, find all conflicting appointments",
+      "link": "https://www.geeksforgeeks.org/given-n-appointments-find-conflicting-appointments/"
+    },
+    {
+      "id": 672,
+      "topic": "Binary Search Trees",
+      "problem": "Replace every element",
+      "link": "https://www.geeksforgeeks.org/replace-every-element-with-the-least-greater-element-on-its-right/"
+    },
+    {
+      "id": 673,
+      "topic": "Binary Search Trees",
+      "problem": "Construct BST from given preorder traversal",
+      "link": "https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/"
+    },
+    {
+      "id": 674,
+      "topic": "Binary Search Trees",
+      "problem": "Find median of BST in O(n) time and O(1) space",
+      "link": "https://www.geeksforgeeks.org/find-median-bst-time-o1-space/"
+    },
+    {
+      "id": 675,
+      "topic": "Binary Search Trees",
+      "problem": "Largest BST in a Binary Tree",
+      "link": "https://www.geeksforgeeks.org/largest-bst-binary-tree-set-2/"
+    },
+    {
+      "id": 676,
+      "topic": "Heap",
+      "problem": "Choose k array elements such that difference of maximum and minimum is minimized",
+      "link": "https://www.geeksforgeeks.org/k-numbers-difference-maximum-minimum-k-number-minimized/"
+    },
+    {
+      "id": 677,
+      "topic": "Heap",
+      "problem": "Heap Sort",
+      "link": "https://www.geeksforgeeks.org/heap-sort/"
+    },
+    {
+      "id": 678,
+      "topic": "Heap",
+      "problem": "Top K Frequent Elements",
+      "link": "https://leetcode.com/problems/top-k-frequent-elements/"
+    },
+    {
+      "id": 679,
+      "topic": "Heap",
+      "problem": "k largest elements in an array",
+      "link": "https://www.geeksforgeeks.org/k-largestor-smallest-elements-in-an-array/"
+    },
+    {
+      "id": 680,
+      "topic": "Heap",
+      "problem": "Next Greater Element",
+      "link": "https://www.geeksforgeeks.org/next-greater-element/"
+    },
+    {
+      "id": 681,
+      "topic": "Heap",
+      "problem": "K’th Smallest/Largest Element in Unsorted Array",
+      "link": "https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/"
+    },
+    {
+      "id": 682,
+      "topic": "Heap",
+      "problem": "Find the maximum repeating number in O(n) time and O(1) extra space",
+      "link": "https://www.geeksforgeeks.org/find-the-maximum-repeating-number-in-ok-time/"
+    },
+    {
+      "id": 683,
+      "topic": "Heap",
+      "problem": "K-th smallest element after removing some integers from natural numbers",
+      "link": "https://www.geeksforgeeks.org/k-th-smallest-element-removing-integers-natural-numbers/"
+    },
+    {
+      "id": 684,
+      "topic": "Heap",
+      "problem": "Find k closest elements to a given value",
+      "link": "https://www.geeksforgeeks.org/find-k-closest-elements-given-value/"
+    },
+    {
+      "id": 685,
+      "topic": "Heap",
+      "problem": "K’th largest element in a stream",
+      "link": "https://www.geeksforgeeks.org/kth-largest-element-in-a-stream/"
+    },
+    {
+      "id": 686,
+      "topic": "Heap",
+      "problem": "Connect Ropes",
+      "link": "https://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/"
+    },
+    {
+      "id": 687,
+      "topic": "Heap",
+      "problem": "Cuckoo Hashing",
+      "link": "https://www.geeksforgeeks.org/cuckoo-hashing/"
+    },
+    {
+      "id": 688,
+      "topic": "Heap",
+      "problem": "Itinerary from a List of Tickets",
+      "link": "https://www.geeksforgeeks.org/find-itinerary-from-a-given-list-of-tickets/"
+    },
+    {
+      "id": 689,
+      "topic": "Heap",
+      "problem": "Largest Subarray with 0 Sum",
+      "link": "http://geeksforgeeks.org/find-the-largest-subarray-with-0-sum/"
+    },
+    {
+      "id": 690,
+      "topic": "Heap",
+      "problem": "Count distinct elements in every window of size  k",
+      "link": "https://www.geeksforgeeks.org/count-distinct-elements-in-every-window-of-size-k/"
+    },
+    {
+      "id": 691,
+      "topic": "Heap",
+      "problem": "Group Shifted String",
+      "link": "https://www.geeksforgeeks.org/group-shifted-string/"
+    },
+    {
+      "id": 692,
+      "topic": "Heap",
+      "problem": "Merge K Sorted lists",
+      "link": "https://leetcode.com/problems/merge-k-sorted-lists/"
+    },
+    {
+      "id": 693,
+      "topic": "Heap",
+      "problem": "Find Median from Data Stream",
+      "link": "https://leetcode.com/problems/find-median-from-data-stream/"
+    },
+    {
+      "id": 694,
+      "topic": "Heap",
+      "problem": "Sliding Window Maximum",
+      "link": "https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/"
+    },
+    {
+      "id": 695,
+      "topic": "Heap",
+      "problem": "Find the smallest positive number",
+      "link": "https://www.geeksforgeeks.org/find-the-smallest-positive-number-missing-from-an-unsorted-array/"
+    },
+    {
+      "id": 696,
+      "topic": "Heap",
+      "problem": "Find Surpasser Count of each element in array",
+      "link": "https://www.geeksforgeeks.org/find-surpasser-count-of-each-element-in-array/"
+    },
+    {
+      "id": 697,
+      "topic": "Heap",
+      "problem": "Tournament Tree and Binary Heap",
+      "link": "https://www.geeksforgeeks.org/tournament-tree-and-binary-heap/"
+    },
+    {
+      "id": 698,
+      "topic": "Heap",
+      "problem": "Check for palindrome",
+      "link": "https://www.geeksforgeeks.org/online-algorithm-for-checking-palindrome-in-a-stream/"
+    },
+    {
+      "id": 699,
+      "topic": "Heap",
+      "problem": "Length of the largest subarray with contiguous elements",
+      "link": "https://www.geeksforgeeks.org/length-largest-subarray-contiguous-elements-set-2/"
+    },
+    {
+      "id": 700,
+      "topic": "Heap",
+      "problem": "Palindrome Substring Queries",
+      "link": "https://www.geeksforgeeks.org/palindrome-substring-queries/"
+    },
+    {
+      "id": 701,
+      "topic": "Heap",
+      "problem": "Subarray distinct elements",
+      "link": "https://www.geeksforgeeks.org/subarrays-distinct-elements/"
+    },
+    {
+      "id": 702,
+      "topic": "Heap",
+      "problem": "Find the recurring function",
+      "link": "https://www.geeksforgeeks.org/find-recurring-sequence-fraction/"
+    },
+    {
+      "id": 703,
+      "topic": "Heap",
+      "problem": "K maximum sum combinations from two arrays",
+      "link": "https://www.geeksforgeeks.org/k-maximum-sum-combinations-two-arrays/"
+    },
+    {
+      "id": 704,
+      "topic": "Graph",
+      "problem": "BFS",
+      "link": "https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1"
+    },
+    {
+      "id": 705,
+      "topic": "Graph",
+      "problem": "DFS",
+      "link": "https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/"
+    },
+    {
+      "id": 706,
+      "topic": "Graph",
+      "problem": "Flood Fill Algorithm",
+      "link": "https://leetcode.com/problems/flood-fill/"
+    },
+    {
+      "id": 707,
+      "topic": "Graph",
+      "problem": "Number of Triangles",
+      "link": "https://www.geeksforgeeks.org/number-of-triangles-in-directed-and-undirected-graphs/"
+    },
+    {
+      "id": 708,
+      "topic": "Graph",
+      "problem": "Detect cycle in a graph",
+      "link": "https://www.geeksforgeeks.org/detect-cycle-in-a-graph/"
+    },
+    {
+      "id": 709,
+      "topic": "Graph",
+      "problem": "Detect cycle in an undirected graph ",
+      "link": "https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1"
+    },
+    {
+      "id": 710,
+      "topic": "Graph",
+      "problem": "Rat in a Maze Problem",
+      "link": "https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1"
+    },
+    {
+      "id": 711,
+      "topic": "Graph",
+      "problem": "Steps by Knight",
+      "link": "https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1"
+    },
+    {
+      "id": 712,
+      "topic": "Graph",
+      "problem": "Clone graph",
+      "link": "https://leetcode.com/problems/clone-graph/"
+    },
+    {
+      "id": 713,
+      "topic": "Graph",
+      "problem": "Number of Operations to Make Network Connected",
+      "link": "https://leetcode.com/problems/number-of-operations-to-make-network-connected/"
+    },
+    {
+      "id": 714,
+      "topic": "Graph",
+      "problem": "Dijkstra’s shortest path algorithm",
+      "link": "https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/"
+    },
+    {
+      "id": 715,
+      "topic": "Graph",
+      "problem": "Topological Sort",
+      "link": "https://practice.geeksforgeeks.org/problems/topological-sort/1"
+    },
+    {
+      "id": 716,
+      "topic": "Graph",
+      "problem": "Oliver and the Game",
+      "link": "https://www.hackerearth.com/practice/algorithms/graphs/topological-sort/practice-problems/algorithm/oliver-and-the-game-3/"
+    },
+    {
+      "id": 717,
+      "topic": "Graph",
+      "problem": "Minimum time taken by each job to be completed given by a Directed Acyclic Graph",
+      "link": "https://www.geeksforgeeks.org/minimum-time-taken-by-each-job-to-be-completed-given-by-a-directed-acyclic-graph/"
+    },
+    {
+      "id": 718,
+      "topic": "Graph",
+      "problem": "Find whether it is possible to finish all tasks or not from given dependencies",
+      "link": "https://www.geeksforgeeks.org/find-whether-it-is-possible-to-finish-all-tasks-or-not-from-given-dependencies/"
+    },
+    {
+      "id": 719,
+      "topic": "Graph",
+      "problem": "Find the number of islands",
+      "link": "https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1"
+    },
+    {
+      "id": 720,
+      "topic": "Graph",
+      "problem": "Prim's Algo",
+      "link": "https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/"
+    },
+    {
+      "id": 721,
+      "topic": "Graph",
+      "problem": " Negative Weighted Cycle",
+      "link": "https://practice.geeksforgeeks.org/problems/negative-weight-cycle3504/1"
+    },
+    {
+      "id": 722,
+      "topic": "Graph",
+      "problem": "Floyd Warshall",
+      "link": "https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1"
+    },
+    {
+      "id": 723,
+      "topic": "Graph",
+      "problem": "Graph Coloring",
+      "link": "https://www.geeksforgeeks.org/graph-coloring-applications/#:~:text=Graph%20coloring%20problem%20is%20to,are%20colored%20using%20same%20color."
+    },
+    {
+      "id": 724,
+      "topic": "Graph",
+      "problem": "Snakes and Ladders",
+      "link": "https://leetcode.com/problems/snakes-and-ladders/"
+    },
+    {
+      "id": 725,
+      "topic": "Graph",
+      "problem": "Kosaraju's Theorem",
+      "link": "https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1"
+    },
+    {
+      "id": 726,
+      "topic": "Graph",
+      "problem": "Journey to moon",
+      "link": "https://www.hackerrank.com/challenges/journey-to-the-moon/problem"
+    },
+    {
+      "id": 727,
+      "topic": "Graph",
+      "problem": "Vertex Cover",
+      "link": "https://www.geeksforgeeks.org/vertex-cover-problem-set-1-introduction-approximate-algorithm-2/"
+    },
+    {
+      "id": 728,
+      "topic": "Graph",
+      "problem": "M Coloring Problem",
+      "link": "https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1"
+    },
+    {
+      "id": 729,
+      "topic": "Graph",
+      "problem": "Cheapest Flights Within K Stops",
+      "link": "https://leetcode.com/problems/cheapest-flights-within-k-stops/description/"
+    },
+    {
+      "id": 730,
+      "topic": "Graph",
+      "problem": "Find if there is a path of more than k length from a source",
+      "link": "https://www.geeksforgeeks.org/find-if-there-is-a-path-of-more-than-k-length-from-a-source/"
+    },
+    {
+      "id": 731,
+      "topic": "Graph",
+      "problem": "Bellman Ford",
+      "link": "https://www.geeksforgeeks.org/detect-negative-cycle-graph-bellman-ford/"
+    },
+    {
+      "id": 732,
+      "topic": "Graph",
+      "problem": "Bipartitie Graph",
+      "link": "https://www.geeksforgeeks.org/bipartite-graph/"
+    },
+    {
+      "id": 733,
+      "topic": "Graph",
+      "problem": "Word-Ladder",
+      "link": "https://leetcode.com/problems/word-ladder/"
+    },
+    {
+      "id": 734,
+      "topic": "Graph",
+      "problem": "Allen Dictionary",
+      "link": "https://practice.geeksforgeeks.org/problems/alien-dictionary/1"
+    },
+    {
+      "id": 735,
+      "topic": "Graph",
+      "problem": "Kruskals MST",
+      "link": "https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/"
+    },
+    {
+      "id": 736,
+      "topic": "Graph",
+      "problem": "Total number spanning trees graph",
+      "link": "https://www.geeksforgeeks.org/total-number-spanning-trees-graph/"
+    },
+    {
+      "id": 737,
+      "topic": "Graph",
+      "problem": "Travelling Salesman",
+      "link": "https://www.geeksforgeeks.org/travelling-salesman-problem-set-1/"
+    },
+    {
+      "id": 738,
+      "topic": "Graph",
+      "problem": "Find longest path directed acyclic graph ",
+      "link": "https://www.geeksforgeeks.org/find-longest-path-directed-acyclic-graph/"
+    },
+    {
+      "id": 739,
+      "topic": "Graph",
+      "problem": "Two Clique Problem",
+      "link": "https://www.geeksforgeeks.org/two-clique-problem-check-graph-can-divided-two-cliques/"
+    },
+    {
+      "id": 740,
+      "topic": "Graph",
+      "problem": "Minimise the cash flow",
+      "link": "https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/"
+    },
+    {
+      "id": 741,
+      "topic": "Graph",
+      "problem": "Chinese postman",
+      "link": "https://www.geeksforgeeks.org/chinese-postman-route-inspection-set-1-introduction/"
+    },
+    {
+      "id": 742,
+      "topic": "Graph",
+      "problem": "Water Jug ",
+      "link": "https://www.geeksforgeeks.org/water-jug-problem-using-bfs/"
+    },
+    {
+      "id": 743,
+      "topic": "Graph",
+      "problem": "Water Jug 2",
+      "link": "https://www.geeksforgeeks.org/water-jug-problem-using-bfs/"
+    },
+    {
+      "id": 744,
+      "topic": "Tries",
+      "problem": "Construct a trie from scratch",
+      "link": "https://www.geeksforgeeks.org/trie-insert-and-search/"
+    },
+    {
+      "id": 745,
+      "topic": "Tries",
+      "problem": "Print unique rows in a given boolean matrix",
+      "link": "https://practice.geeksforgeeks.org/problems/unique-rows-in-boolean-matrix/1"
+    },
+    {
+      "id": 746,
+      "topic": "Tries",
+      "problem": "Word Break Problem | (Trie solution)",
+      "link": "https://www.geeksforgeeks.org/word-break-problem-trie-solution/"
+    },
+    {
+      "id": 747,
+      "topic": "Tries",
+      "problem": "Given a sequence of words, print all anagrams together",
+      "link": "https://practice.geeksforgeeks.org/problems/k-anagrams-1/0"
+    },
+    {
+      "id": 748,
+      "topic": "Tries",
+      "problem": "Find shortest unique prefix for every word in a given list",
+      "link": "https://www.geeksforgeeks.org/find-all-shortest-unique-prefixes-to-represent-each-word-in-a-given-list/"
+    },
+    {
+      "id": 749,
+      "topic": "Tries",
+      "problem": "Implement a Phone Directory",
+      "link": "https://practice.geeksforgeeks.org/problems/phone-directory/0"
+    },
+    {
+      "id": 750,
+      "topic": "Dynamic Programming",
+      "problem": "Knapsack with Duplicate Items",
+      "link": "https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1"
+    },
+    {
+      "id": 751,
+      "topic": "Dynamic Programming",
+      "problem": "BBT counter",
+      "link": "https://practice.geeksforgeeks.org/problems/bbt-counter4914/1"
+    },
+    {
+      "id": 752,
+      "topic": "Dynamic Programming",
+      "problem": "Reach a given score",
+      "link": "https://practice.geeksforgeeks.org/problems/reach-a-given-score-1587115621/1"
+    },
+    {
+      "id": 753,
+      "topic": "Dynamic Programming",
+      "problem": "Maximum difference of zeros and ones in binary string",
+      "link": "https://practice.geeksforgeeks.org/problems/maximum-difference-of-zeros-and-ones-in-binary-string4111/1"
+    },
+    {
+      "id": 754,
+      "topic": "Dynamic Programming",
+      "problem": "Climbing Stairs",
+      "link": "https://leetcode.com/problems/climbing-stairs/"
+    },
+    {
+      "id": 755,
+      "topic": "Dynamic Programming",
+      "problem": "Permutation Coefficient",
+      "link": "https://www.geeksforgeeks.org/permutation-coefficient/"
+    },
+    {
+      "id": 756,
+      "topic": "Dynamic Programming",
+      "problem": "Longest Repeating Subsequence",
+      "link": "https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1"
+    },
+    {
+      "id": 757,
+      "topic": "Dynamic Programming",
+      "problem": "Pairs with specific difference ",
+      "link": "https://practice.geeksforgeeks.org/problems/pairs-with-specific-difference1533/1"
+    },
+    {
+      "id": 758,
+      "topic": "Dynamic Programming",
+      "problem": "Longest subsequence-1 ",
+      "link": "https://practice.geeksforgeeks.org/problems/longest-subsequence-such-that-difference-between-adjacents-is-one4724/1"
+    },
+    {
+      "id": 759,
+      "topic": "Dynamic Programming",
+      "problem": "Coin Change",
+      "link": "https://leetcode.com/problems/coin-change/"
+    },
+    {
+      "id": 760,
+      "topic": "Dynamic Programming",
+      "problem": "LIS",
+      "link": "https://leetcode.com/problems/longest-increasing-subsequence/"
+    },
+    {
+      "id": 761,
+      "topic": "Dynamic Programming",
+      "problem": "Longest Common Subsequence",
+      "link": "https://leetcode.com/problems/longest-common-subsequence/"
+    },
+    {
+      "id": 762,
+      "topic": "Dynamic Programming",
+      "problem": "Word Break",
+      "link": "https://leetcode.com/problems/word-break/"
+    },
+    {
+      "id": 763,
+      "topic": "Dynamic Programming",
+      "problem": "Combination Sum IV",
+      "link": "https://leetcode.com/problems/combination-sum-iv/"
+    },
+    {
+      "id": 764,
+      "topic": "Dynamic Programming",
+      "problem": "House Robber",
+      "link": "https://leetcode.com/problems/house-robber/"
+    },
+    {
+      "id": 765,
+      "topic": "Dynamic Programming",
+      "problem": "Houe Robber 2",
+      "link": "https://leetcode.com/problems/house-robber-ii/"
+    },
+    {
+      "id": 766,
+      "topic": "Dynamic Programming",
+      "problem": "Decode Ways",
+      "link": "https://leetcode.com/problems/decode-ways/"
+    },
+    {
+      "id": 767,
+      "topic": "Dynamic Programming",
+      "problem": "Unique Paths",
+      "link": "https://leetcode.com/problems/unique-paths/"
+    },
+    {
+      "id": 768,
+      "topic": "Dynamic Programming",
+      "problem": "Jumps Game",
+      "link": "https://leetcode.com/problems/jump-game/"
+    },
+    {
+      "id": 769,
+      "topic": "Dynamic Programming",
+      "problem": "Knapsack Problem",
+      "link": "https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1"
+    },
+    {
+      "id": 770,
+      "topic": "Dynamic Programming",
+      "problem": "nCr",
+      "link": "https://practice.geeksforgeeks.org/problems/ncr1019/1"
+    },
+    {
+      "id": 771,
+      "topic": "Dynamic Programming",
+      "problem": "Catalan Number",
+      "link": "https://www.geeksforgeeks.org/program-nth-catalan-number/"
+    },
+    {
+      "id": 772,
+      "topic": "Dynamic Programming",
+      "problem": "Edit Distance",
+      "link": "https://practice.geeksforgeeks.org/problems/edit-distance3702/1"
+    },
+    {
+      "id": 773,
+      "topic": "Dynamic Programming",
+      "problem": "Subset Sum ",
+      "link": "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1"
+    },
+    {
+      "id": 774,
+      "topic": "Dynamic Programming",
+      "problem": "Gold mine",
+      "link": "https://www.geeksforgeeks.org/gold-mine-problem/"
+    },
+    {
+      "id": 775,
+      "topic": "Dynamic Programming",
+      "problem": "Assembly Line Scheduling",
+      "link": "https://www.geeksforgeeks.org/assembly-line-scheduling-dp-34/"
+    },
+    {
+      "id": 776,
+      "topic": "Dynamic Programming",
+      "problem": "Maximize The Cut Segments",
+      "link": "https://practice.geeksforgeeks.org/problems/cutted-segments1642/1"
+    },
+    {
+      "id": 777,
+      "topic": "Dynamic Programming",
+      "problem": "Maximum sum increasing subsequence ",
+      "link": "https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1"
+    },
+    {
+      "id": 778,
+      "topic": "Dynamic Programming",
+      "problem": "Count all subsequences having product less than K",
+      "link": "https://www.geeksforgeeks.org/count-subsequences-product-less-k/"
+    },
+    {
+      "id": 779,
+      "topic": "Dynamic Programming",
+      "problem": "Maximum sum increasing subsequence",
+      "link": "https://www.geeksforgeeks.org/maximum-subsequence-sum-such-that-no-three-are-consecutive/"
+    },
+    {
+      "id": 780,
+      "topic": "Dynamic Programming",
+      "problem": "Egg dropping puzzle",
+      "link": "https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1"
+    },
+    {
+      "id": 781,
+      "topic": "Dynamic Programming",
+      "problem": "Max length chain",
+      "link": "https://practice.geeksforgeeks.org/problems/max-length-chain/1"
+    },
+    {
+      "id": 782,
+      "topic": "Dynamic Programming",
+      "problem": "Largest Square in Matrix",
+      "link": "https://practice.geeksforgeeks.org/problems/largest-square-formed-in-a-matrix0806/1"
+    },
+    {
+      "id": 783,
+      "topic": "Dynamic Programming",
+      "problem": "Maximum Path Sum",
+      "link": "https://practice.geeksforgeeks.org/problems/path-in-matrix3805/1"
+    },
+    {
+      "id": 784,
+      "topic": "Dynamic Programming",
+      "problem": "Minimum Number of Jumps",
+      "link": "https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1"
+    },
+    {
+      "id": 785,
+      "topic": "Dynamic Programming",
+      "problem": "Minimum removals from array to make max – min <= K",
+      "link": "http://geeksforgeeks.org/minimum-removals-array-make-max-min-k/"
+    },
+    {
+      "id": 786,
+      "topic": "Dynamic Programming",
+      "problem": "Longest Common Substring",
+      "link": "https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1"
+    },
+    {
+      "id": 787,
+      "topic": "Dynamic Programming",
+      "problem": "Partition Equal Subset Sum",
+      "link": "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1"
+    },
+    {
+      "id": 788,
+      "topic": "Dynamic Programming",
+      "problem": "Longest Palindromic Subsequnce",
+      "link": "https://www.geeksforgeeks.org/longest-palindromic-subsequence-dp-12/"
+    },
+    {
+      "id": 789,
+      "topic": "Dynamic Programming",
+      "problem": "Count Palindromic Subsequences",
+      "link": "https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1"
+    },
+    {
+      "id": 790,
+      "topic": "Dynamic Programming",
+      "problem": "Longest Palindromic Substring",
+      "link": "https://leetcode.com/problems/longest-palindromic-substring/"
+    },
+    {
+      "id": 791,
+      "topic": "Dynamic Programming",
+      "problem": "Longest Alternating Sequence",
+      "link": "https://practice.geeksforgeeks.org/problems/longest-alternating-subsequence5951/1"
+    },
+    {
+      "id": 792,
+      "topic": "Dynamic Programming",
+      "problem": "Weighted Job Scheduling",
+      "link": "https://www.geeksforgeeks.org/weighted-job-scheduling/"
+    },
+    {
+      "id": 793,
+      "topic": "Dynamic Programming",
+      "problem": "Coin Game",
+      "link": "https://www.geeksforgeeks.org/coin-game-winner-every-player-three-choices/"
+    },
+    {
+      "id": 794,
+      "topic": "Dynamic Programming",
+      "problem": "Coin Game Winner",
+      "link": "https://www.geeksforgeeks.org/count-derangements-permutation-such-that-no-element-appears-in-its-original-position/"
+    },
+    {
+      "id": 795,
+      "topic": "Dynamic Programming",
+      "problem": "Optimal Strategy for a game",
+      "link": "https://practice.geeksforgeeks.org/problems/optimal-strategy-for-a-game-1587115620/1"
+    },
+    {
+      "id": 796,
+      "topic": "Dynamic Programming",
+      "problem": "Word Wrap",
+      "link": "https://practice.geeksforgeeks.org/problems/word-wrap1646/1"
+    },
+    {
+      "id": 797,
+      "topic": "Dynamic Programming",
+      "problem": "Mobile numeric keypad ",
+      "link": "https://practice.geeksforgeeks.org/problems/mobile-numeric-keypad5456/1"
+    },
+    {
+      "id": 798,
+      "topic": "Dynamic Programming",
+      "problem": "Maximum Length of Pair Chain",
+      "link": "https://leetcode.com/problems/maximum-length-of-pair-chain/"
+    },
+    {
+      "id": 799,
+      "topic": "Dynamic Programming",
+      "problem": "Matrix Chain Multiplication",
+      "link": "https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/"
+    },
+    {
+      "id": 800,
+      "topic": "Dynamic Programming",
+      "problem": "Maximum profit by buying and selling a share at most twice",
+      "link": "https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-twice/"
+    },
+    {
+      "id": 801,
+      "topic": "Dynamic Programming",
+      "problem": "Optimal BST",
+      "link": "https://www.geeksforgeeks.org/optimal-binary-search-tree-dp-24/"
+    },
+    {
+      "id": 802,
+      "topic": "Dynamic Programming",
+      "problem": "Largest Submatrix with sum 0",
+      "link": "https://www.geeksforgeeks.org/largest-rectangular-sub-matrix-whose-sum-0/"
+    },
+    {
+      "id": 803,
+      "topic": "Dynamic Programming",
+      "problem": "Largest area rectangular sub-matrix with equal number of 1’s and 0’s",
+      "link": "https://www.geeksforgeeks.org/largest-area-rectangular-sub-matrix-equal-number-1s-0s/"
+    },
+    {
+      "id": 804,
+      "topic": "Bit Manipulation",
+      "problem": "Count set bits in an integer",
+      "link": "https://practice.geeksforgeeks.org/problems/set-bits0143/1"
+    },
+    {
+      "id": 805,
+      "topic": "Bit Manipulation",
+      "problem": "Find the two non-repeating elements in an array of repeating elements",
+      "link": "https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1"
+    },
+    {
+      "id": 806,
+      "topic": "Bit Manipulation",
+      "problem": "Program to find whether a no is power of two",
+      "link": "https://practice.geeksforgeeks.org/problems/power-of-2/0"
+    },
+    {
+      "id": 807,
+      "topic": "Bit Manipulation",
+      "problem": "Find position of the only set bit",
+      "link": "https://practice.geeksforgeeks.org/problems/find-position-of-set-bit3706/1"
+    },
+    {
+      "id": 808,
+      "topic": "Bit Manipulation",
+      "problem": "Count number of bits to be flipped to convert A to B",
+      "link": "https://practice.geeksforgeeks.org/problems/bit-difference/0"
+    },
+    {
+      "id": 809,
+      "topic": "Bit Manipulation",
+      "problem": "Count total set bits in all numbers from 1 to n",
+      "link": "https://practice.geeksforgeeks.org/problems/count-total-set-bits/0"
+    },
+    {
+      "id": 810,
+      "topic": "Bit Manipulation",
+      "problem": "Copy set bits in a range",
+      "link": "https://www.geeksforgeeks.org/copy-set-bits-in-a-range/"
+    },
+    {
+      "id": 811,
+      "topic": "Bit Manipulation",
+      "problem": "Calculate square of a number without using *, / and pow()",
+      "link": "https://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-and-pow/#:~:text=Given%20an%20integer%20n%2C%20calculate,*%2C%20%2F%20and%20pow().&text=A%20Simple%20Solution%20is%20to%20repeatedly%20add%20n%20to%20result."
+    },
+    {
+      "id": 812,
+      "topic": "Bit Manipulation",
+      "problem": "Divide two integers without using multiplication, division and mod operator",
+      "link": "https://www.geeksforgeeks.org/divide-two-integers-without-using-multiplication-division-mod-operator/"
+    },
+    {
+      "id": 813,
+      "topic": "Bit Manipulation",
+      "problem": "Power Set",
+      "link": "https://practice.geeksforgeeks.org/problems/power-set4302/1"
+    },
+    {
+      "id": 814,
+      "topic": "Segment Trees",
+      "problem": "Range Sum Query - Immutable",
+      "link": "https://leetcode.com/problems/range-sum-query-immutable/"
+    },
+    {
+      "id": 815,
+      "topic": "Segment Trees",
+      "problem": "Range Minimum Query",
+      "link": "https://cp-algorithms.com/sequences/rmq.html"
+    },
+    {
+      "id": 816,
+      "topic": "Segment Trees",
+      "problem": "Range Sum Query - Mutable",
+      "link": "https://leetcode.com/problems/range-sum-query-mutable/"
+    },
+    {
+      "id": 817,
+      "topic": "Segment Trees",
+      "problem": "Create Sorted Array through Instructions",
+      "link": "https://leetcode.com/problems/create-sorted-array-through-instructions/"
+    },
+    {
+      "id": 818,
+      "topic": "Segment Trees",
+      "problem": "Count of Range Sum",
+      "link": "https://leetcode.com/problems/count-of-range-sum/"
+    },
+    {
+      "id": 819,
+      "topic": "Segment Trees",
+      "problem": "Count of Smaller Numbers After Self",
+      "link": "https://leetcode.com/problems/count-of-smaller-numbers-after-self/"
+    }
+  ]
