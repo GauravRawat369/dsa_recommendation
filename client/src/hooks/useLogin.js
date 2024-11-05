@@ -1,6 +1,6 @@
 import { useState } from "react"
 import { useAuthContext } from "../context/AuthContext";
-// import toast from 'react-hot-toast';
+import toast from 'react-hot-toast';
 import axios from 'axios';
 const useLogin = ()=>{
     const [loading,setLoading] = useState(false);
@@ -18,9 +18,10 @@ const useLogin = ()=>{
             //setting user data to localStorage
             localStorage.setItem("Dsa-user",JSON.stringify(data))
             setAuthUser(data)
+            toast.success('Login Successfull')
         } catch (error) {
             console.log("Error in useLogin hook : ",error)
-            // toast.error(error.message)
+            toast.error(error.message)
         }finally{
             setLoading(false)
         }
@@ -34,7 +35,7 @@ function handleInputErrros({email,password}){
     if(!email || !password)
     {
         console.log("incomplete input")
-        // toast.error("Please fill all the fields")
+        toast.error("Please fill all the fields")
         return false;
     }
     return true;

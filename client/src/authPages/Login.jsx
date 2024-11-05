@@ -10,6 +10,7 @@ import {
   Button,
 } from "@ui5/webcomponents-react";
 import useLogin from '../hooks/useLogin.js';
+import { Toaster } from 'react-hot-toast';
 const Login = () => {
     const [inputs,setInputs] = useState({
         email:'',
@@ -63,6 +64,10 @@ const Login = () => {
       >
         Submit
       </Button>
+      <Toaster
+        position="top-center"
+        reverseOrder={false}
+      />
         </div>
         <div className="company-logo">
 

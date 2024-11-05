@@ -1,5 +1,5 @@
 import mongoose from "mongoose";
-const userQuestionData = new mongoose.Schema({
+const solvedQuestionSchema = new mongoose.Schema({
     questionId: { type: Number, required: true },
     attempts: { type: Number, required: true },
     topic: { type: String, required: true },

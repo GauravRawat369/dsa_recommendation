@@ -4,7 +4,9 @@ import { useNavigate } from 'react-router-dom'
 import leetcode from '../assets/leetcode.png'
 import gfg from '../assets/gfg.png'
 import codingninja from '../assets/codingninja.png'
+import { useAuthContext } from '../context/AuthContext'
 const FirstPage = () => {
+  const {authUser} = useAuthContext();
   const navigate = useNavigate();
   return (
     <div className='first-page'>
@@ -15,7 +17,7 @@ const FirstPage = () => {
       </div>
       <h1>Practice DSA in a best way</h1>
       <div className="card">
-        <button onClick={() => {navigate('/home')}}>
+        <button onClick={() => {authUser ? navigate('/home') : navigate('/auth/login')}}>
           Start Coding
         </button>
         <p>

@@ -2,6 +2,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import { useUserProgress } from '../context/UserProgressContext.jsx';
+import  toast, { Toaster } from 'react-hot-toast';
 
 const HomePage = () => {
   const { state, dispatch } = useUserProgress(); // Access global state and dispatch
@@ -28,15 +29,24 @@ const HomePage = () => {
   // Function to submit the number of attempts and fetch the next question
   const submitAttempts = async () => {
     if (!attempts) {
-      alert("Please enter the number of attempts!");
+      toast.error('Please enter the number of attempts.');
+      return;
+    }
+    else if(attempts <= 0){
+      toast.error('Number of attempts cannot be negative or zero.');
       return;
     }
     try {
-      await axios.post('http://localhost:5000/api/questions/submit-attempts', {
+      const res = await axios.post('http://localhost:5000/api/questions/submit-attempts', {
         userId: state.userId,
         questionId: question.id,  // Assuming each question has a unique 'id' field
         attempts: parseInt(attempts)
       });
+      const data = res.data;
+      if(data.error){
+        throw new Error(data.error)
+      }
+      toast.success("successfully submitted")
 
       // Update the global state with the solved question
       dispatch({
@@ -83,6 +93,10 @@ const HomePage = () => {
             placeholder="Enter attempts" 
           />
           <button onClick={submitAttempts}>Submit</button>
+          <Toaster
+        position="top-center"
+        reverseOrder={false}
+      />
         </div>
       )}
     </div>
