@@ -7,6 +7,11 @@ Built a performance dashboard and recommendation system for solving DSA, utilizi
 ## Images
 ![Project HomePage](Leetcode_recom_homepage.png)
 
+
+## Mind Map
+![Mind Map](Dsa_recommendation.jpg)
+
+
 ## Process
 
 ### Tracking Attempts: 
@@ -33,3 +38,8 @@ Number of attempts acts as a proxy for the difficulty a user faces in solving a 
 The system uses this data to identify the user's weaker topics (i.e., topics with higher attempts).
 The recommendation system is driven by this insight and provides problems from weaker topics, allowing the user to focus on areas where they need more practice.
 This personalized approach helps to improve the user's performance by concentrating on weaker areas until they demonstrate mastery by reducing the number of attempts per problem.
+
+
+
+
+
